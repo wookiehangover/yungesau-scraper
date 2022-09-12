@@ -20,7 +20,7 @@ updated_at = get_updated_at()
 write_file('./updated_at.txt', updated_at.isoformat())
 
 if prev_time < updated_at:
-    print('updated')
+    print('updated. generating screenshot...')
+    exec('shot-scraper multi shots.yml')
 else:
     print('not updated')
-    exit(1)

@@ -52,7 +52,7 @@ jobs:
           }
     - name: Take shots
       run: |
-        python check_page.py && shot-scraper multi shots.yml
+        python check_page.py
     - name: Commit and push
       run: |-
         git config user.name "Automated"
