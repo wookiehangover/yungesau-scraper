@@ -2,3 +2,4 @@
   output: shot.png
   height: 5000
   width: 1024
+  wait: 5000
