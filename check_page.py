@@ -1,5 +1,6 @@
 import requests
 import datetime
+import os
 
 def read_file(filename):
     with open(filename, 'r') as f:
@@ -21,6 +22,6 @@ write_file('./updated_at.txt', updated_at.isoformat())
 
 if prev_time < updated_at:
     print('updated. generating screenshot...')
-    exec('shot-scraper multi shots.yml')
+    os.system('shot-scraper multi shots.yml')
 else:
     print('not updated')
