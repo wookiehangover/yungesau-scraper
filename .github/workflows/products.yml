@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  shot-scraper:
+  product-scraper:
     runs-on: ubuntu-latest
     if: ${{ github.repository != 'simonw/shot-scraper-template' }}
     steps:
