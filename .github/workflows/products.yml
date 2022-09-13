@@ -25,6 +25,9 @@ jobs:
         key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
     - name: Scrape products json
       run: |
         python get_products.py
