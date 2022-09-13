@@ -1,0 +1,39 @@
+name: Scrape Products
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/5 * * * *' 
+
+permissions:
+  contents: write
+
+jobs:
+  shot-scraper:
+    runs-on: ubuntu-latest
+    if: ${{ github.repository != 'simonw/shot-scraper-template' }}
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+    - uses: actions/cache@v3
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Scrape products json
+      run: |
+        python get_products.py
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "${timestamp}" || exit 0
+        git pull --rebase
+        git push
