@@ -1,6 +1,94 @@
 {
     "products": [
         {
+            "id": 7778435432690,
+            "title": "Grateful Denim",
+            "handle": "grateful-denim",
+            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>Large - 22\u201d x 28\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
+            "published_at": "2022-09-15T13:18:19-06:00",
+            "created_at": "2022-09-15T13:18:19-06:00",
+            "updated_at": "2022-09-15T13:22:25-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43648472383730,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "85.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7778435432690,
+                    "created_at": "2022-09-15T13:18:19-06:00",
+                    "updated_at": "2022-09-15T13:22:25-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38446584037618,
+                    "created_at": "2022-09-15T13:18:25-06:00",
+                    "position": 1,
+                    "updated_at": "2022-09-15T13:18:28-06:00",
+                    "product_id": 7778435432690,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a0d1bb12-daf2-4c49-8d1c-a5d546ab269c.heic?v=1663269508",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38446586691826,
+                    "created_at": "2022-09-15T13:18:35-06:00",
+                    "position": 2,
+                    "updated_at": "2022-09-15T13:18:37-06:00",
+                    "product_id": 7778435432690,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_42fa1c31-be62-4617-91d9-c5cde25e5317.heic?v=1663269517",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38446588756210,
+                    "created_at": "2022-09-15T13:18:42-06:00",
+                    "position": 3,
+                    "updated_at": "2022-09-15T13:18:44-06:00",
+                    "product_id": 7778435432690,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_2deb98e8-03a8-4cd8-8055-6b68719fba80.heic?v=1663269524",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38446589673714,
+                    "created_at": "2022-09-15T13:18:45-06:00",
+                    "position": 4,
+                    "updated_at": "2022-09-15T13:18:48-06:00",
+                    "product_id": 7778435432690,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_96c09fb0-6dc3-4995-a754-0b810ae83896.heic?v=1663269528",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7777547485426,
             "title": "Atomic Dog",
             "handle": "atomic-dog",
@@ -2131,72 +2219,6 @@
                     "product_id": 7757827113202,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5d6b4bb8-ec3f-470c-b53b-b01881040da2.heic?v=1661812113",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7757823082738,
-            "title": "Big Wings by Jerry Jaspar",
-            "handle": "big-wings-by-jerry-jaspar",
-            "body_html": "",
-            "published_at": "2022-08-29T16:24:32-06:00",
-            "created_at": "2022-08-29T16:24:32-06:00",
-            "updated_at": "2022-08-29T16:24:43-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43569515954418,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "10.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7757823082738,
-                    "created_at": "2022-08-29T16:24:32-06:00",
-                    "updated_at": "2022-08-29T16:24:43-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38250449240306,
-                    "created_at": "2022-08-29T16:24:36-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-29T16:24:38-06:00",
-                    "product_id": 7757823082738,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5dc0b19e-5bd3-4fe4-a269-b3580accd4bb.heic?v=1661811878",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38250449764594,
-                    "created_at": "2022-08-29T16:24:38-06:00",
-                    "position": 2,
-                    "updated_at": "2022-08-29T16:24:40-06:00",
-                    "product_id": 7757823082738,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f8b8193e-d751-4a33-ab90-547fe94e4ccb.heic?v=1661811880",
                     "width": 3024,
                     "height": 3024
                 }
