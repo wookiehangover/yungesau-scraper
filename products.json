@@ -1,6 +1,94 @@
 {
     "products": [
         {
+            "id": 7781693620466,
+            "title": "JGB Bandana",
+            "handle": "jgb-bandana",
+            "body_html": "<p><strong>Year:\u00a0</strong>1991</p>\n<p><strong>Size:\u00a0</strong>25.5\u201d x 25.5\u201d</p>\n<p><strong>Condition:</strong> minor flaw as shown</p>",
+            "published_at": "2022-09-20T08:07:55-06:00",
+            "created_at": "2022-09-20T08:07:55-06:00",
+            "updated_at": "2022-09-20T08:11:19-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43665376018674,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "75.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7781693620466,
+                    "created_at": "2022-09-20T08:07:56-06:00",
+                    "updated_at": "2022-09-20T08:11:18-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38517034057970,
+                    "created_at": "2022-09-20T08:08:04-06:00",
+                    "position": 1,
+                    "updated_at": "2022-09-20T08:08:07-06:00",
+                    "product_id": 7781693620466,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_430dce4d-b830-4a6c-83ba-c7d9e3a0b4b9.heic?v=1663682887",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38517035565298,
+                    "created_at": "2022-09-20T08:08:14-06:00",
+                    "position": 2,
+                    "updated_at": "2022-09-20T08:08:15-06:00",
+                    "product_id": 7781693620466,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_6873968b-ca6c-4888-a100-f7f8ab6f2cd8.heic?v=1663682895",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38517037105394,
+                    "created_at": "2022-09-20T08:08:23-06:00",
+                    "position": 3,
+                    "updated_at": "2022-09-20T08:08:25-06:00",
+                    "product_id": 7781693620466,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_171e3b38-0488-487e-85ce-70ff5e7a6783.heic?v=1663682905",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38517037957362,
+                    "created_at": "2022-09-20T08:08:30-06:00",
+                    "position": 4,
+                    "updated_at": "2022-09-20T08:08:32-06:00",
+                    "product_id": 7781693620466,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_af7c6369-aeb7-4287-9f36-68353623481c.heic?v=1663682912",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7780941267186,
             "title": "Windsurf",
             "handle": "windsurf",
@@ -2252,72 +2340,6 @@
                     "product_id": 7757840875762,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_64c4aa13-54b7-4df4-9f2c-96bdabd1ece8.heic?v=1661812870",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7757838647538,
-            "title": "Peace by Jerry Jaspar",
-            "handle": "peace-by-jerry-jaspar",
-            "body_html": "<meta charset=\"UTF-8\">\n<p><strong>Year:\u00a0</strong>1994</p>\n<p><strong>Size:\u00a0</strong>5\u201d</p>",
-            "published_at": "2022-08-29T16:38:37-06:00",
-            "created_at": "2022-08-29T16:38:37-06:00",
-            "updated_at": "2022-09-13T19:50:10-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43569635885298,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "5.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7757838647538,
-                    "created_at": "2022-08-29T16:38:37-06:00",
-                    "updated_at": "2022-09-13T19:50:10-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38250530046194,
-                    "created_at": "2022-08-29T16:38:41-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-29T16:38:43-06:00",
-                    "product_id": 7757838647538,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_2c613437-2b22-45c1-b8e6-5c6432adb3e0.heic?v=1661812723",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38250530144498,
-                    "created_at": "2022-08-29T16:38:44-06:00",
-                    "position": 2,
-                    "updated_at": "2022-08-29T16:38:46-06:00",
-                    "product_id": 7757838647538,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_7a179723-1e89-4850-98fb-984c69b9f221.heic?v=1661812726",
                     "width": 3024,
                     "height": 3024
                 }
