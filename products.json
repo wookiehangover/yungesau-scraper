@@ -1976,7 +1976,7 @@
             "body_html": "",
             "published_at": "2022-08-29T16:24:32-06:00",
             "created_at": "2022-08-29T16:24:32-06:00",
-            "updated_at": "2022-08-29T16:24:43-06:00",
+            "updated_at": "2022-09-22T07:13:32-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1998,7 +1998,7 @@
                     "position": 1,
                     "product_id": 7757823082738,
                     "created_at": "2022-08-29T16:24:32-06:00",
-                    "updated_at": "2022-08-29T16:24:43-06:00"
+                    "updated_at": "2022-09-22T07:13:32-06:00"
                 }
             ],
             "images": [
@@ -2036,19 +2036,19 @@
             ]
         },
         {
-            "id": 7757819150578,
-            "title": "Stained Glass Moth",
-            "handle": "stained-glass-moth",
-            "body_html": "<p><strong>Year:\u00a0</strong>1997</p>\n<p><strong>Size:\u00a0</strong>6\u201d x 3.8\u201d</p>",
-            "published_at": "2022-08-29T16:21:01-06:00",
-            "created_at": "2022-08-29T16:21:01-06:00",
-            "updated_at": "2022-08-29T17:25:23-06:00",
+            "id": 7754688168178,
+            "title": "Iris",
+            "handle": "iris",
+            "body_html": null,
+            "published_at": "2022-08-26T07:39:15-06:00",
+            "created_at": "2022-08-26T07:39:15-06:00",
+            "updated_at": "2022-08-26T07:39:22-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
             "variants": [
                 {
-                    "id": 43569467556082,
+                    "id": 43551250776306,
                     "title": "Default Title",
                     "option1": "Default Title",
                     "option2": null,
@@ -2058,24 +2058,24 @@
                     "taxable": true,
                     "featured_image": null,
                     "available": true,
-                    "price": "5.00",
+                    "price": "15.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
-                    "product_id": 7757819150578,
-                    "created_at": "2022-08-29T16:21:01-06:00",
-                    "updated_at": "2022-08-29T17:23:47-06:00"
+                    "product_id": 7754688168178,
+                    "created_at": "2022-08-26T07:39:15-06:00",
+                    "updated_at": "2022-08-26T07:39:15-06:00"
                 }
             ],
             "images": [
                 {
-                    "id": 38250422829298,
-                    "created_at": "2022-08-29T16:21:06-06:00",
+                    "id": 38222987133170,
+                    "created_at": "2022-08-26T07:39:20-06:00",
                     "position": 1,
-                    "updated_at": "2022-08-29T16:21:07-06:00",
-                    "product_id": 7757819150578,
+                    "updated_at": "2022-08-26T07:39:22-06:00",
+                    "product_id": 7754688168178,
                     "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_7e439038-793f-4a60-b77c-7905bd4384ae.heic?v=1661811667",
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_b2568db3-8030-40c8-8197-1031ea356fe3.heic?v=1661521162",
                     "width": 3024,
                     "height": 3024
                 }
