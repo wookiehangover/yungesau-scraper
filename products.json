@@ -1,6 +1,132 @@
 {
     "products": [
         {
+            "id": 7784279572722,
+            "title": "Weather Report Suite",
+            "handle": "weather-report-suite",
+            "body_html": "<p><strong></strong>DTG Printed on Port &amp; Company tees\u00a0</p>\n<p>Sizes medium-XXL</p>\n<p>100% cotton\u00a0</p>\n<p><strong>Medium</strong> - 19.5\u201d x 28\u201d</p>\n<p><strong>Large -\u00a0</strong>22\u201d x 29.5\u201d</p>\n<p><strong>XL -\u00a0</strong>24\u201d x 30.5\u201d</p>\n<p><strong>XXL -\u00a0</strong>25.5\u201d x 31.5\u201d</p>\n<p>\u00a0</p>",
+            "published_at": "2022-09-22T07:59:11-06:00",
+            "created_at": "2022-09-22T06:57:05-06:00",
+            "updated_at": "2022-09-22T07:59:11-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43675610513650,
+                    "title": "Medium",
+                    "option1": "Medium",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "30.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7784279572722,
+                    "created_at": "2022-09-22T06:57:05-06:00",
+                    "updated_at": "2022-09-22T07:00:49-06:00"
+                },
+                {
+                    "id": 43675622736114,
+                    "title": "Large",
+                    "option1": "Large",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "30.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 2,
+                    "product_id": 7784279572722,
+                    "created_at": "2022-09-22T07:00:37-06:00",
+                    "updated_at": "2022-09-22T07:00:37-06:00"
+                },
+                {
+                    "id": 43675622768882,
+                    "title": "XL",
+                    "option1": "XL",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "30.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 3,
+                    "product_id": 7784279572722,
+                    "created_at": "2022-09-22T07:00:37-06:00",
+                    "updated_at": "2022-09-22T07:00:37-06:00"
+                },
+                {
+                    "id": 43675622801650,
+                    "title": "XXL",
+                    "option1": "XXL",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "30.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 4,
+                    "product_id": 7784279572722,
+                    "created_at": "2022-09-22T07:00:37-06:00",
+                    "updated_at": "2022-09-22T07:00:37-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38544150823154,
+                    "created_at": "2022-09-22T06:57:12-06:00",
+                    "position": 1,
+                    "updated_at": "2022-09-22T06:57:14-06:00",
+                    "product_id": 7784279572722,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_0dba54f4-9df3-4d53-b9bf-196e5d2118f7.heic?v=1663851434",
+                    "width": 2860,
+                    "height": 2860
+                },
+                {
+                    "id": 38544150954226,
+                    "created_at": "2022-09-22T06:57:13-06:00",
+                    "position": 2,
+                    "updated_at": "2022-09-22T06:57:15-06:00",
+                    "product_id": 7784279572722,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5a452383-c413-420d-a90b-3912c6ffa569.heic?v=1663851435",
+                    "width": 1236,
+                    "height": 1236
+                }
+            ],
+            "options": [
+                {
+                    "name": "Size",
+                    "position": 1,
+                    "values": [
+                        "Medium",
+                        "Large",
+                        "XL",
+                        "XXL"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7783043432690,
             "title": "Keep on Truckin\u2019 Rug",
             "handle": "keep-on-truckin-rug",
@@ -2021,61 +2147,6 @@
                     "product_id": 7757823082738,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f8b8193e-d751-4a33-ab90-547fe94e4ccb.heic?v=1661811880",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7754688168178,
-            "title": "Iris",
-            "handle": "iris",
-            "body_html": null,
-            "published_at": "2022-08-26T07:39:15-06:00",
-            "created_at": "2022-08-26T07:39:15-06:00",
-            "updated_at": "2022-08-26T07:39:22-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43551250776306,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7754688168178,
-                    "created_at": "2022-08-26T07:39:15-06:00",
-                    "updated_at": "2022-08-26T07:39:15-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38222987133170,
-                    "created_at": "2022-08-26T07:39:20-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-26T07:39:22-06:00",
-                    "product_id": 7754688168178,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_b2568db3-8030-40c8-8197-1031ea356fe3.heic?v=1661521162",
                     "width": 3024,
                     "height": 3024
                 }
