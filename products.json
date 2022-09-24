@@ -7,7 +7,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>Large - 21\u201d x 29.5\u201d</p>\n<p><strong>Condition:</strong> no flaws</p>",
             "published_at": "2022-09-24T08:51:14-06:00",
             "created_at": "2022-09-24T08:51:15-06:00",
-            "updated_at": "2022-09-24T08:51:24-06:00",
+            "updated_at": "2022-09-24T10:25:52-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -22,14 +22,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "125.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7785753673970,
                     "created_at": "2022-09-24T08:51:15-06:00",
-                    "updated_at": "2022-09-24T08:51:15-06:00"
+                    "updated_at": "2022-09-24T10:24:50-06:00"
                 }
             ],
             "images": [
@@ -497,7 +497,7 @@
             "body_html": "<p><strong></strong>DTG Printed on Port &amp; Company tees\u00a0</p>\n<p>Sizes medium-XXL</p>\n<p>100% cotton\u00a0</p>\n<p><strong>Medium</strong> - 19.5\u201d x 28\u201d</p>\n<p><strong>Large -\u00a0</strong>22\u201d x 29.5\u201d</p>\n<p><strong>XL -\u00a0</strong>24\u201d x 30.5\u201d</p>\n<p><strong>XXL -\u00a0</strong>25.5\u201d x 31.5\u201d</p>\n<p>\u00a0</p>",
             "published_at": "2022-09-22T07:59:11-06:00",
             "created_at": "2022-09-22T06:57:05-06:00",
-            "updated_at": "2022-09-24T07:30:26-06:00",
+            "updated_at": "2022-09-24T10:30:05-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -557,7 +557,7 @@
                     "position": 3,
                     "product_id": 7784279572722,
                     "created_at": "2022-09-22T07:00:37-06:00",
-                    "updated_at": "2022-09-24T07:27:46-06:00"
+                    "updated_at": "2022-09-24T10:30:05-06:00"
                 },
                 {
                     "id": 43675622801650,
