@@ -1,6 +1,232 @@
 {
     "products": [
         {
+            "id": 7785731424498,
+            "title": "Weather Report Suite (kids)",
+            "handle": "weather-report-suite-kids",
+            "body_html": "Made from 100% ring-spun combed cotton, this classic youth jersey t-shirt is soft and comfy\u2014great for an everyday outfit. Try it out!<br>\r\n<br>\r\n\u2022 100% ring-spun combed cotton<br>\r\n\u2022 Heather colors are 90% ring-spun combed cotton, 10% polyester<br>\r\n\u2022 Soft jersey fabric<br>\r\n\u2022 Fabric weight: 4.5 4.5 oz./sq. yd. (153 g/m\u00b2)<br>\r\n\u2022 Crew neck and ribbed collar<br>\r\n\u2022 Shoulder-to-shoulder taping<br>\r\n\u2022 Double-needle stitched sleeves and bottom hem<br>\r\n\u2022 Set-in sleeves<br>\r\n\u2022 Blank product sourced from India, Mexico, Haiti, or Guatemala",
+            "published_at": "2022-09-24T07:13:57-06:00",
+            "created_at": "2022-09-24T07:13:53-06:00",
+            "updated_at": "2022-09-24T07:13:58-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43681604206834,
+                    "title": "XS",
+                    "option1": "XS",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "6492269_11668",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38564535402738,
+                        "product_id": 7785731424498,
+                        "position": 1,
+                        "created_at": "2022-09-24T07:13:56-06:00",
+                        "updated_at": "2022-09-24T07:13:56-06:00",
+                        "alt": null,
+                        "width": 2000,
+                        "height": 2000,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/youth-jersey-t-shirt-white-front-632f028e88a3b.jpg?v=1664025236",
+                        "variant_ids": [
+                            43681604206834,
+                            43681604239602,
+                            43681604272370,
+                            43681604305138,
+                            43681604337906
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 65,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7785731424498,
+                    "created_at": "2022-09-24T07:13:53-06:00",
+                    "updated_at": "2022-09-24T07:13:57-06:00"
+                },
+                {
+                    "id": 43681604239602,
+                    "title": "S",
+                    "option1": "S",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "6492269_11669",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38564535402738,
+                        "product_id": 7785731424498,
+                        "position": 1,
+                        "created_at": "2022-09-24T07:13:56-06:00",
+                        "updated_at": "2022-09-24T07:13:56-06:00",
+                        "alt": null,
+                        "width": 2000,
+                        "height": 2000,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/youth-jersey-t-shirt-white-front-632f028e88a3b.jpg?v=1664025236",
+                        "variant_ids": [
+                            43681604206834,
+                            43681604239602,
+                            43681604272370,
+                            43681604305138,
+                            43681604337906
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 79,
+                    "compare_at_price": null,
+                    "position": 2,
+                    "product_id": 7785731424498,
+                    "created_at": "2022-09-24T07:13:53-06:00",
+                    "updated_at": "2022-09-24T07:13:57-06:00"
+                },
+                {
+                    "id": 43681604272370,
+                    "title": "M",
+                    "option1": "M",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "6492269_11670",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38564535402738,
+                        "product_id": 7785731424498,
+                        "position": 1,
+                        "created_at": "2022-09-24T07:13:56-06:00",
+                        "updated_at": "2022-09-24T07:13:56-06:00",
+                        "alt": null,
+                        "width": 2000,
+                        "height": 2000,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/youth-jersey-t-shirt-white-front-632f028e88a3b.jpg?v=1664025236",
+                        "variant_ids": [
+                            43681604206834,
+                            43681604239602,
+                            43681604272370,
+                            43681604305138,
+                            43681604337906
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 91,
+                    "compare_at_price": null,
+                    "position": 3,
+                    "product_id": 7785731424498,
+                    "created_at": "2022-09-24T07:13:53-06:00",
+                    "updated_at": "2022-09-24T07:13:57-06:00"
+                },
+                {
+                    "id": 43681604305138,
+                    "title": "L",
+                    "option1": "L",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "6492269_11671",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38564535402738,
+                        "product_id": 7785731424498,
+                        "position": 1,
+                        "created_at": "2022-09-24T07:13:56-06:00",
+                        "updated_at": "2022-09-24T07:13:56-06:00",
+                        "alt": null,
+                        "width": 2000,
+                        "height": 2000,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/youth-jersey-t-shirt-white-front-632f028e88a3b.jpg?v=1664025236",
+                        "variant_ids": [
+                            43681604206834,
+                            43681604239602,
+                            43681604272370,
+                            43681604305138,
+                            43681604337906
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 99,
+                    "compare_at_price": null,
+                    "position": 4,
+                    "product_id": 7785731424498,
+                    "created_at": "2022-09-24T07:13:53-06:00",
+                    "updated_at": "2022-09-24T07:13:57-06:00"
+                },
+                {
+                    "id": 43681604337906,
+                    "title": "XL",
+                    "option1": "XL",
+                    "option2": null,
+                    "option3": null,
+                    "sku": "6492269_11672",
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38564535402738,
+                        "product_id": 7785731424498,
+                        "position": 1,
+                        "created_at": "2022-09-24T07:13:56-06:00",
+                        "updated_at": "2022-09-24T07:13:56-06:00",
+                        "alt": null,
+                        "width": 2000,
+                        "height": 2000,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/youth-jersey-t-shirt-white-front-632f028e88a3b.jpg?v=1664025236",
+                        "variant_ids": [
+                            43681604206834,
+                            43681604239602,
+                            43681604272370,
+                            43681604305138,
+                            43681604337906
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 111,
+                    "compare_at_price": null,
+                    "position": 5,
+                    "product_id": 7785731424498,
+                    "created_at": "2022-09-24T07:13:53-06:00",
+                    "updated_at": "2022-09-24T07:13:57-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38564535402738,
+                    "created_at": "2022-09-24T07:13:56-06:00",
+                    "position": 1,
+                    "updated_at": "2022-09-24T07:13:56-06:00",
+                    "product_id": 7785731424498,
+                    "variant_ids": [
+                        43681604206834,
+                        43681604239602,
+                        43681604272370,
+                        43681604305138,
+                        43681604337906
+                    ],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/youth-jersey-t-shirt-white-front-632f028e88a3b.jpg?v=1664025236",
+                    "width": 2000,
+                    "height": 2000
+                }
+            ],
+            "options": [
+                {
+                    "name": "Size",
+                    "position": 1,
+                    "values": [
+                        "XS",
+                        "S",
+                        "M",
+                        "L",
+                        "XL"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7785187705074,
             "title": "JGB Fall Tour",
             "handle": "jgb-fall-tour",
@@ -2147,61 +2373,6 @@
                     "product_id": 7757838647538,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_7a179723-1e89-4850-98fb-984c69b9f221.heic?v=1661812726",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7757829669106,
-            "title": "Ocean Life by Jerry Jaspar",
-            "handle": "ocean-life-by-jerry-jaspar",
-            "body_html": "<meta charset=\"UTF-8\">\n<p><strong>Year:</strong>1997</p>\n<p><strong>Size:\u00a0</strong>5\u201d</p>",
-            "published_at": "2022-08-29T16:31:09-06:00",
-            "created_at": "2022-08-29T16:31:09-06:00",
-            "updated_at": "2022-08-29T16:31:23-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43569566122226,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "5.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7757829669106,
-                    "created_at": "2022-08-29T16:31:09-06:00",
-                    "updated_at": "2022-08-29T16:31:23-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38250490855666,
-                    "created_at": "2022-08-29T16:31:14-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-29T16:31:16-06:00",
-                    "product_id": 7757829669106,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_752d29e3-e507-4717-832c-2d7e91d8ba46.heic?v=1661812276",
                     "width": 3024,
                     "height": 3024
                 }
