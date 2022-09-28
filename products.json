@@ -73,7 +73,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1996</p>\n<p><strong>Size:\u00a0</strong>Large - 21\u201d x 29\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-09-28T14:58:20-06:00",
             "created_at": "2022-09-28T14:58:20-06:00",
-            "updated_at": "2022-09-28T14:58:48-06:00",
+            "updated_at": "2022-09-28T15:31:12-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -88,14 +88,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "65.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7791393669362,
                     "created_at": "2022-09-28T14:58:20-06:00",
-                    "updated_at": "2022-09-28T14:58:20-06:00"
+                    "updated_at": "2022-09-28T15:31:12-06:00"
                 }
             ],
             "images": [
