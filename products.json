@@ -1,6 +1,94 @@
 {
     "products": [
         {
+            "id": 7790976303346,
+            "title": "Santa Fe 82\u2019 Bandana",
+            "handle": "santa-fe-82-bandana",
+            "body_html": "<p><strong>Year:\u00a0</strong>1982</p>\n<p><strong>Size:\u00a0</strong>approx 20.5\u201d x 20.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
+            "published_at": "2022-09-28T10:18:03-06:00",
+            "created_at": "2022-09-28T10:18:03-06:00",
+            "updated_at": "2022-09-28T10:19:09-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43696737419506,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "65.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7790976303346,
+                    "created_at": "2022-09-28T10:18:03-06:00",
+                    "updated_at": "2022-09-28T10:19:08-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38615854153970,
+                    "created_at": "2022-09-28T10:18:08-06:00",
+                    "position": 1,
+                    "updated_at": "2022-09-28T10:18:10-06:00",
+                    "product_id": 7790976303346,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_23f136ee-0fbf-457e-9b22-3f2a2d294f02.heic?v=1664381890",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38615854481650,
+                    "created_at": "2022-09-28T10:18:11-06:00",
+                    "position": 2,
+                    "updated_at": "2022-09-28T10:18:14-06:00",
+                    "product_id": 7790976303346,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ec050f10-636d-4b1a-90c2-6db660cedeb7.heic?v=1664381894",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38615854743794,
+                    "created_at": "2022-09-28T10:18:13-06:00",
+                    "position": 3,
+                    "updated_at": "2022-09-28T10:18:16-06:00",
+                    "product_id": 7790976303346,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_83dd2f20-874b-4285-a719-f911caee8caf.heic?v=1664381896",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38615855399154,
+                    "created_at": "2022-09-28T10:18:17-06:00",
+                    "position": 4,
+                    "updated_at": "2022-09-28T10:18:19-06:00",
+                    "product_id": 7790976303346,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_40b2b663-a001-44fc-a376-01eb93598b07.heic?v=1664381899",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7790055293170,
             "title": "GD Packable Anorak",
             "handle": "gd-packable-anorak-1",
@@ -74,94 +162,6 @@
                     "product_id": 7790055293170,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_883cb068-4045-4d2a-9f68-a204e1848406.heic?v=1664316789",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7790050476274,
-            "title": "GD Packable Anorak",
-            "handle": "gd-packable-anorak",
-            "body_html": "<p><strong>Year:\u00a0</strong>1996</p>\n<p><strong>Size:\u00a0</strong>Large - 25.5\u201d x 27.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>marks as shown</p>",
-            "published_at": "2022-09-27T16:11:10-06:00",
-            "created_at": "2022-09-27T16:11:10-06:00",
-            "updated_at": "2022-09-27T16:40:29-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43694270873842,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "115.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7790050476274,
-                    "created_at": "2022-09-27T16:11:10-06:00",
-                    "updated_at": "2022-09-27T16:38:00-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38603219697906,
-                    "created_at": "2022-09-27T16:11:21-06:00",
-                    "position": 1,
-                    "updated_at": "2022-09-27T16:11:23-06:00",
-                    "product_id": 7790050476274,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_d8865438-8b52-4ef9-af1c-755b19d49410.heic?v=1664316683",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38603220418802,
-                    "created_at": "2022-09-27T16:11:30-06:00",
-                    "position": 2,
-                    "updated_at": "2022-09-27T16:11:32-06:00",
-                    "product_id": 7790050476274,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a029ea65-8fab-42d2-bf96-263807a4aa37.heic?v=1664316692",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38603221303538,
-                    "created_at": "2022-09-27T16:11:36-06:00",
-                    "position": 3,
-                    "updated_at": "2022-09-27T16:11:37-06:00",
-                    "product_id": 7790050476274,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_57786136-14d1-42e3-b277-b9c0876d24da.heic?v=1664316697",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38603232116978,
-                    "created_at": "2022-09-27T16:13:25-06:00",
-                    "position": 4,
-                    "updated_at": "2022-09-27T16:13:27-06:00",
-                    "product_id": 7790050476274,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_2d2ef2bf-9680-4163-add5-d8df2014b2e7.heic?v=1664316807",
                     "width": 3024,
                     "height": 3024
                 }
