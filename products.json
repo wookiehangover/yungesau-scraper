@@ -1,6 +1,160 @@
 {
     "products": [
         {
+            "id": 7791373123826,
+            "title": "Tie Dye SnapBack",
+            "handle": "tie-dye-snapback",
+            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>snapback</p>\n<p><strong>Condition:\u00a0</strong>some wear as shown</p>",
+            "published_at": "2022-09-28T14:45:53-06:00",
+            "created_at": "2022-09-28T14:45:53-06:00",
+            "updated_at": "2022-09-28T14:46:08-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43697606033650,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "75.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7791373123826,
+                    "created_at": "2022-09-28T14:45:54-06:00",
+                    "updated_at": "2022-09-28T14:45:54-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38618266829042,
+                    "created_at": "2022-09-28T14:46:00-06:00",
+                    "position": 1,
+                    "updated_at": "2022-09-28T14:46:02-06:00",
+                    "product_id": 7791373123826,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a879433f-7ee3-4a29-acb8-18b769b73038.heic?v=1664397962",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38618267287794,
+                    "created_at": "2022-09-28T14:46:04-06:00",
+                    "position": 2,
+                    "updated_at": "2022-09-28T14:46:06-06:00",
+                    "product_id": 7791373123826,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_b8f5107a-6c04-407b-9cd7-7c91714bc48d.heic?v=1664397966",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38618267844850,
+                    "created_at": "2022-09-28T14:46:06-06:00",
+                    "position": 3,
+                    "updated_at": "2022-09-28T14:46:08-06:00",
+                    "product_id": 7791373123826,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_e70ec400-d362-4f5a-aeff-7ee215c08b45.heic?v=1664397968",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7791371518194,
+            "title": "SYF Splatter SnapBack",
+            "handle": "syf-splatter-snapback",
+            "body_html": "<p><strong>Year:\u00a0</strong>1990</p>\n<p><strong>Size:\u00a0</strong>snapback</p>\n<p><strong>Condition:\u00a0</strong>deadstock</p>",
+            "published_at": "2022-09-28T14:44:55-06:00",
+            "created_at": "2022-09-28T14:44:55-06:00",
+            "updated_at": "2022-09-28T14:46:12-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43697603281138,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "85.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7791371518194,
+                    "created_at": "2022-09-28T14:44:55-06:00",
+                    "updated_at": "2022-09-28T14:46:12-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38618259030258,
+                    "created_at": "2022-09-28T14:45:00-06:00",
+                    "position": 1,
+                    "updated_at": "2022-09-28T14:45:01-06:00",
+                    "product_id": 7791371518194,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_35d43e71-c71c-447d-b96f-9da8b664a4af.heic?v=1664397901",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38618259521778,
+                    "created_at": "2022-09-28T14:45:02-06:00",
+                    "position": 2,
+                    "updated_at": "2022-09-28T14:45:04-06:00",
+                    "product_id": 7791371518194,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_3cde09cf-430b-4772-9d75-0c3d87db5143.heic?v=1664397904",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38618259783922,
+                    "created_at": "2022-09-28T14:45:05-06:00",
+                    "position": 3,
+                    "updated_at": "2022-09-28T14:45:07-06:00",
+                    "product_id": 7791371518194,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9f1d2c5f-7d41-4ea7-bc86-bee8b537f9c1.heic?v=1664397907",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7790976303346,
             "title": "Santa Fe 82\u2019 Bandana",
             "handle": "santa-fe-82-bandana",
@@ -2263,127 +2417,6 @@
                     "product_id": 7757838647538,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_7a179723-1e89-4850-98fb-984c69b9f221.heic?v=1661812726",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7757829669106,
-            "title": "Ocean Life by Jerry Jaspar",
-            "handle": "ocean-life-by-jerry-jaspar",
-            "body_html": "<meta charset=\"UTF-8\">\n<p><strong>Year:</strong>1997</p>\n<p><strong>Size:\u00a0</strong>5\u201d</p>",
-            "published_at": "2022-08-29T16:31:09-06:00",
-            "created_at": "2022-08-29T16:31:09-06:00",
-            "updated_at": "2022-08-29T16:31:23-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43569566122226,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "5.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7757829669106,
-                    "created_at": "2022-08-29T16:31:09-06:00",
-                    "updated_at": "2022-08-29T16:31:23-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38250490855666,
-                    "created_at": "2022-08-29T16:31:14-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-29T16:31:16-06:00",
-                    "product_id": 7757829669106,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_752d29e3-e507-4717-832c-2d7e91d8ba46.heic?v=1661812276",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7757827113202,
-            "title": "Alien Dracula by Jerry Jaspar",
-            "handle": "alien-dracula",
-            "body_html": "<meta charset=\"UTF-8\">\n<p><strong>Year:\u00a0</strong>1996</p>\n<p><strong>Size: </strong>approx 6.5\u201d 5.8\u201d</p>",
-            "published_at": "2022-08-29T16:28:24-06:00",
-            "created_at": "2022-08-29T16:28:24-06:00",
-            "updated_at": "2022-08-29T21:30:18-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43569546035442,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "5.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7757827113202,
-                    "created_at": "2022-08-29T16:28:24-06:00",
-                    "updated_at": "2022-08-29T21:28:10-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38250475520242,
-                    "created_at": "2022-08-29T16:28:29-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-29T16:28:31-06:00",
-                    "product_id": 7757827113202,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_2a3a296c-b3b7-48d2-b90a-641734223c52.heic?v=1661812111",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38250475749618,
-                    "created_at": "2022-08-29T16:28:31-06:00",
-                    "position": 2,
-                    "updated_at": "2022-08-29T16:28:33-06:00",
-                    "product_id": 7757827113202,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5d6b4bb8-ec3f-470c-b53b-b01881040da2.heic?v=1661812113",
                     "width": 3024,
                     "height": 3024
                 }
