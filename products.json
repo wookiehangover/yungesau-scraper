@@ -1211,7 +1211,7 @@
             "body_html": "<p>Approx 3\u201d x 4.2\u201d</p>",
             "published_at": "2022-09-02T08:46:15-06:00",
             "created_at": "2022-09-02T08:46:15-06:00",
-            "updated_at": "2022-09-02T08:46:20-06:00",
+            "updated_at": "2022-10-04T12:41:06-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1226,14 +1226,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "15.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7764537311474,
                     "created_at": "2022-09-02T08:46:15-06:00",
-                    "updated_at": "2022-09-02T08:46:15-06:00"
+                    "updated_at": "2022-10-04T12:38:40-06:00"
                 }
             ],
             "images": [
@@ -2355,7 +2355,7 @@
             "body_html": "",
             "published_at": "2022-08-19T20:59:34-06:00",
             "created_at": "2022-08-19T20:59:34-06:00",
-            "updated_at": "2022-08-26T07:23:35-06:00",
+            "updated_at": "2022-10-04T12:41:03-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -2377,7 +2377,7 @@
                     "position": 1,
                     "product_id": 7748995514610,
                     "created_at": "2022-08-19T20:59:34-06:00",
-                    "updated_at": "2022-08-26T07:23:35-06:00"
+                    "updated_at": "2022-10-04T12:38:40-06:00"
                 }
             ],
             "images": [
