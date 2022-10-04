@@ -1,6 +1,83 @@
 {
     "products": [
         {
+            "id": 7795499335922,
+            "title": "GD / Dylan / Petty",
+            "handle": "gd-dylan-petty",
+            "body_html": "<p><strong>Year:\u00a0</strong>1986</p>\n<p><strong>Size: </strong>Slim L - 19.5\u201d x 27\u201d</p>\n<p><strong>Condition</strong>: deadstock</p>",
+            "published_at": "2022-10-04T13:25:32-06:00",
+            "created_at": "2022-10-04T13:25:32-06:00",
+            "updated_at": "2022-10-04T13:25:45-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43715958046962,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "200.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7795499335922,
+                    "created_at": "2022-10-04T13:25:32-06:00",
+                    "updated_at": "2022-10-04T13:25:32-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38682716569842,
+                    "created_at": "2022-10-04T13:25:37-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-04T13:25:39-06:00",
+                    "product_id": 7795499335922,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_33118fe9-c61b-428f-a7bb-aad3fdaf8a68.heic?v=1664911539",
+                    "width": 2822,
+                    "height": 2822
+                },
+                {
+                    "id": 38682717126898,
+                    "created_at": "2022-10-04T13:25:40-06:00",
+                    "position": 2,
+                    "updated_at": "2022-10-04T13:25:42-06:00",
+                    "product_id": 7795499335922,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_eb3a3c54-f928-4b6f-b057-e2e3ffe08c9b.heic?v=1664911542",
+                    "width": 2726,
+                    "height": 2726
+                },
+                {
+                    "id": 38682717683954,
+                    "created_at": "2022-10-04T13:25:43-06:00",
+                    "position": 3,
+                    "updated_at": "2022-10-04T13:25:45-06:00",
+                    "product_id": 7795499335922,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_0f40275e-5c6a-4ae8-bd56-2402c76d8693.heic?v=1664911545",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7795386024178,
             "title": "Batik Rose",
             "handle": "batik-rose",
@@ -2334,61 +2411,6 @@
                     "product_id": 7748995612914,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a51c3cfc-96cc-4b8f-8107-34c46d16c602.heic?v=1660964413",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7748995514610,
-            "title": "California",
-            "handle": "california",
-            "body_html": "",
-            "published_at": "2022-08-19T20:59:34-06:00",
-            "created_at": "2022-08-19T20:59:34-06:00",
-            "updated_at": "2022-10-04T12:41:03-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43524440686834,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7748995514610,
-                    "created_at": "2022-08-19T20:59:34-06:00",
-                    "updated_at": "2022-10-04T12:38:40-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38163121144050,
-                    "created_at": "2022-08-19T20:59:37-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-19T20:59:40-06:00",
-                    "product_id": 7748995514610,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5dbb25da-10f1-42bc-8534-61203d473527.heic?v=1660964380",
                     "width": 3024,
                     "height": 3024
                 }
