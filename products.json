@@ -1,13 +1,68 @@
 {
     "products": [
         {
+            "id": 7798893871346,
+            "title": "For Gracie",
+            "handle": "for-gracie",
+            "body_html": null,
+            "published_at": "2022-10-05T14:23:42-06:00",
+            "created_at": "2022-10-05T14:23:42-06:00",
+            "updated_at": "2022-10-05T14:23:57-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43722530947314,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "25.10",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7798893871346,
+                    "created_at": "2022-10-05T14:23:42-06:00",
+                    "updated_at": "2022-10-05T14:23:42-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38701479756018,
+                    "created_at": "2022-10-05T14:23:54-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-05T14:23:56-06:00",
+                    "product_id": 7798893871346,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image.png?v=1665001436",
+                    "width": 1125,
+                    "height": 2436
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7798833348850,
             "title": "5 limited edition bears",
             "handle": "5-limited-edition-bears",
             "body_html": "",
             "published_at": "2022-10-05T12:55:50-06:00",
             "created_at": "2022-10-05T12:55:50-06:00",
-            "updated_at": "2022-10-05T12:55:55-06:00",
+            "updated_at": "2022-10-05T14:31:35-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -22,14 +77,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "120.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7798833348850,
                     "created_at": "2022-10-05T12:55:50-06:00",
-                    "updated_at": "2022-10-05T12:55:50-06:00"
+                    "updated_at": "2022-10-05T14:27:52-06:00"
                 }
             ],
             "images": [
@@ -2378,61 +2433,6 @@
                     "product_id": 7753965437170,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_87b167ff-4b33-491c-b5e2-50c9c3795d80.heic?v=1661466359",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7752696037618,
-            "title": "Honk if You\u2019re Heady",
-            "handle": "honk-if-you-re-heady",
-            "body_html": "<p>8.2\u201d x 2.9\u201d</p>\n<p>free shipping\u00a0</p>",
-            "published_at": "2022-08-24T09:21:08-06:00",
-            "created_at": "2022-08-24T09:21:08-06:00",
-            "updated_at": "2022-09-29T14:57:36-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43537927995634,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "3.50",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7752696037618,
-                    "created_at": "2022-08-24T09:21:08-06:00",
-                    "updated_at": "2022-09-29T14:57:36-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38203865006322,
-                    "created_at": "2022-08-24T09:21:12-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-24T09:21:14-06:00",
-                    "product_id": 7752696037618,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_03bb437f-02fe-4225-97bb-1832101d7ec9.heic?v=1661354474",
                     "width": 3024,
                     "height": 3024
                 }
