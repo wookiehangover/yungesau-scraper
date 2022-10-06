@@ -2,12 +2,12 @@
     "products": [
         {
             "id": 7800215568626,
-            "title": "Relix",
+            "title": "Felix",
             "handle": "relix",
             "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>XL - 22.5\u201d x 30\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-10-06T10:42:02-06:00",
             "created_at": "2022-10-06T10:42:02-06:00",
-            "updated_at": "2022-10-06T10:42:18-06:00",
+            "updated_at": "2022-10-06T10:46:29-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -22,14 +22,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": false,
+                    "available": true,
                     "price": "100.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7800215568626,
                     "created_at": "2022-10-06T10:42:02-06:00",
-                    "updated_at": "2022-10-06T10:42:02-06:00"
+                    "updated_at": "2022-10-06T10:46:21-06:00"
                 }
             ],
             "images": [
@@ -241,116 +241,6 @@
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9ba1a7de-4c0f-46a3-b2a7-84eda491529c.jpg?v=1665013357",
                     "width": 1125,
                     "height": 1364
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7798893871346,
-            "title": "For Gracie",
-            "handle": "for-gracie",
-            "body_html": null,
-            "published_at": "2022-10-05T14:23:42-06:00",
-            "created_at": "2022-10-05T14:23:42-06:00",
-            "updated_at": "2022-10-05T14:41:16-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43722530947314,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "25.10",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7798893871346,
-                    "created_at": "2022-10-05T14:23:42-06:00",
-                    "updated_at": "2022-10-05T14:35:45-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38701479756018,
-                    "created_at": "2022-10-05T14:23:54-06:00",
-                    "position": 1,
-                    "updated_at": "2022-10-05T14:23:56-06:00",
-                    "product_id": 7798893871346,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image.png?v=1665001436",
-                    "width": 1125,
-                    "height": 2436
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7798833348850,
-            "title": "5 limited edition bears",
-            "handle": "5-limited-edition-bears",
-            "body_html": "",
-            "published_at": "2022-10-05T12:55:50-06:00",
-            "created_at": "2022-10-05T12:55:50-06:00",
-            "updated_at": "2022-10-05T14:31:35-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43722248192242,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "120.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7798833348850,
-                    "created_at": "2022-10-05T12:55:50-06:00",
-                    "updated_at": "2022-10-05T14:27:52-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38700265242866,
-                    "created_at": "2022-10-05T12:55:53-06:00",
-                    "position": 1,
-                    "updated_at": "2022-10-05T12:55:54-06:00",
-                    "product_id": 7798833348850,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_1e534990-c827-47da-bed1-4af440f895d8.jpg?v=1664996154",
-                    "width": 1080,
-                    "height": 1081
                 }
             ],
             "options": [
@@ -646,127 +536,6 @@
                     "product_id": 7795386024178,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_990d7169-cdfc-476e-9c4a-fe49a1431305.heic?v=1664905329",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7795297976562,
-            "title": "Long Strange Trip / Kelly / Mouse",
-            "handle": "long-strange-trip-kelly-mouse",
-            "body_html": "<p><strong>Year:\u00a0</strong>1979</p>\n<p><strong>Size:\u00a0</strong>Small - 17.5\u201d x 23\u201d</p>\n<p><strong>Condition:\u00a0</strong>minor pin hole as shown</p>",
-            "published_at": "2022-10-04T10:19:18-06:00",
-            "created_at": "2022-10-04T10:19:18-06:00",
-            "updated_at": "2022-10-05T20:31:01-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43715133047026,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "200.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7795297976562,
-                    "created_at": "2022-10-04T10:19:18-06:00",
-                    "updated_at": "2022-10-05T20:28:20-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38681259704562,
-                    "created_at": "2022-10-04T10:19:21-06:00",
-                    "position": 1,
-                    "updated_at": "2022-10-04T10:19:22-06:00",
-                    "product_id": 7795297976562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_4e710e7f-e32b-47c4-9623-8ecc2e050368.jpg?v=1664900362",
-                    "width": 932,
-                    "height": 932
-                },
-                {
-                    "id": 38681259999474,
-                    "created_at": "2022-10-04T10:19:22-06:00",
-                    "position": 2,
-                    "updated_at": "2022-10-04T10:19:24-06:00",
-                    "product_id": 7795297976562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_db606449-c359-4eb3-81e7-fa15fe758395.jpg?v=1664900364",
-                    "width": 971,
-                    "height": 971
-                },
-                {
-                    "id": 38681260228850,
-                    "created_at": "2022-10-04T10:19:25-06:00",
-                    "position": 3,
-                    "updated_at": "2022-10-04T10:19:27-06:00",
-                    "product_id": 7795297976562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_bc302ce9-9bcc-4f00-8af9-3ae3e1b57bb3.heic?v=1664900367",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38681261179122,
-                    "created_at": "2022-10-04T10:19:28-06:00",
-                    "position": 4,
-                    "updated_at": "2022-10-04T10:19:31-06:00",
-                    "product_id": 7795297976562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_29f6dfd6-e266-4b8e-9c13-3a7ba98bef02.heic?v=1664900371",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38681261441266,
-                    "created_at": "2022-10-04T10:19:31-06:00",
-                    "position": 5,
-                    "updated_at": "2022-10-04T10:19:33-06:00",
-                    "product_id": 7795297976562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_c72b6b46-614c-4de3-8d29-df1a2ad2c90d.heic?v=1664900373",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38681261998322,
-                    "created_at": "2022-10-04T10:19:34-06:00",
-                    "position": 6,
-                    "updated_at": "2022-10-04T10:19:36-06:00",
-                    "product_id": 7795297976562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_20dfdf5a-582e-4bae-ba02-82fae5f2fa4b.heic?v=1664900376",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38681262162162,
-                    "created_at": "2022-10-04T10:19:37-06:00",
-                    "position": 7,
-                    "updated_at": "2022-10-04T10:19:39-06:00",
-                    "product_id": 7795297976562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_436d78cf-cf91-4ca2-b9c8-9a511ab98675.heic?v=1664900379",
                     "width": 3024,
                     "height": 3024
                 }
@@ -2378,6 +2147,182 @@
                     "product_id": 7757838647538,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_7a179723-1e89-4850-98fb-984c69b9f221.heic?v=1661812726",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7757823082738,
+            "title": "Big Wings by Jerry Jaspar",
+            "handle": "big-wings-by-jerry-jaspar",
+            "body_html": "",
+            "published_at": "2022-08-29T16:24:32-06:00",
+            "created_at": "2022-08-29T16:24:32-06:00",
+            "updated_at": "2022-10-04T19:41:51-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43569515954418,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "5.00",
+                    "grams": 0,
+                    "compare_at_price": "10.00",
+                    "position": 1,
+                    "product_id": 7757823082738,
+                    "created_at": "2022-08-29T16:24:32-06:00",
+                    "updated_at": "2022-10-04T19:36:31-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38250449240306,
+                    "created_at": "2022-08-29T16:24:36-06:00",
+                    "position": 1,
+                    "updated_at": "2022-08-29T16:24:38-06:00",
+                    "product_id": 7757823082738,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5dc0b19e-5bd3-4fe4-a269-b3580accd4bb.heic?v=1661811878",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38250449764594,
+                    "created_at": "2022-08-29T16:24:38-06:00",
+                    "position": 2,
+                    "updated_at": "2022-08-29T16:24:40-06:00",
+                    "product_id": 7757823082738,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f8b8193e-d751-4a33-ab90-547fe94e4ccb.heic?v=1661811880",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7754688168178,
+            "title": "Iris",
+            "handle": "iris",
+            "body_html": null,
+            "published_at": "2022-08-26T07:39:15-06:00",
+            "created_at": "2022-08-26T07:39:15-06:00",
+            "updated_at": "2022-08-26T07:39:22-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43551250776306,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "15.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7754688168178,
+                    "created_at": "2022-08-26T07:39:15-06:00",
+                    "updated_at": "2022-08-26T07:39:15-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38222987133170,
+                    "created_at": "2022-08-26T07:39:20-06:00",
+                    "position": 1,
+                    "updated_at": "2022-08-26T07:39:22-06:00",
+                    "product_id": 7754688168178,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_b2568db3-8030-40c8-8197-1031ea356fe3.heic?v=1661521162",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7754688102642,
+            "title": "Dupree",
+            "handle": "dupree",
+            "body_html": null,
+            "published_at": "2022-08-26T07:38:54-06:00",
+            "created_at": "2022-08-26T07:38:54-06:00",
+            "updated_at": "2022-08-26T07:39:02-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43551250710770,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "15.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7754688102642,
+                    "created_at": "2022-08-26T07:38:54-06:00",
+                    "updated_at": "2022-08-26T07:38:54-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38222986805490,
+                    "created_at": "2022-08-26T07:39:00-06:00",
+                    "position": 1,
+                    "updated_at": "2022-08-26T07:39:02-06:00",
+                    "product_id": 7754688102642,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_cfcfcc49-ab38-435c-8f5b-f8ee816eee73.heic?v=1661521142",
                     "width": 3024,
                     "height": 3024
                 }
