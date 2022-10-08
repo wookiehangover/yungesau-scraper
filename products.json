@@ -1,13 +1,101 @@
 {
     "products": [
         {
+            "id": 7801259360498,
+            "title": "Steal Your Bear (white)",
+            "handle": "steal-your-bear-white",
+            "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size:\u00a0</strong>XL - 23\u201d x 31.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>deadstock</p>",
+            "published_at": "2022-10-08T12:46:39-06:00",
+            "created_at": "2022-10-08T12:46:39-06:00",
+            "updated_at": "2022-10-08T12:54:53-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43731277512946,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "100.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7801259360498,
+                    "created_at": "2022-10-08T12:46:40-06:00",
+                    "updated_at": "2022-10-08T12:54:04-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38733595082994,
+                    "created_at": "2022-10-08T12:54:08-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-08T12:54:53-06:00",
+                    "product_id": 7801259360498,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_0ebfa2af-4a17-46ef-8861-39219e4861f3.heic?v=1665255293",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38733566050546,
+                    "created_at": "2022-10-08T12:46:55-06:00",
+                    "position": 2,
+                    "updated_at": "2022-10-08T12:54:20-06:00",
+                    "product_id": 7801259360498,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_b12f47fb-53ce-434c-b8ae-139b4a6aa73f.heic?v=1665255260",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38733566771442,
+                    "created_at": "2022-10-08T12:47:03-06:00",
+                    "position": 3,
+                    "updated_at": "2022-10-08T12:54:20-06:00",
+                    "product_id": 7801259360498,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_14b25f8f-533a-4fd1-adae-43de3b05cf77.heic?v=1665255260",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38733567099122,
+                    "created_at": "2022-10-08T12:47:08-06:00",
+                    "position": 4,
+                    "updated_at": "2022-10-08T12:54:20-06:00",
+                    "product_id": 7801259360498,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_2677e6d2-d11e-433b-aca1-4bad9573a49e.heic?v=1665255260",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7801259163890,
             "title": "Steal Your Bear (dyed)",
             "handle": "steal-your-bear-dyed",
             "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size:\u00a0</strong>Medium - 18\u201d x 26\u201d</p>\n<p><strong>Condition:\u00a0</strong>flaw as shown</p>",
             "published_at": "2022-10-08T12:44:34-06:00",
             "created_at": "2022-10-08T12:44:34-06:00",
-            "updated_at": "2022-10-08T12:44:50-06:00",
+            "updated_at": "2022-10-08T12:55:47-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -29,18 +117,73 @@
                     "position": 1,
                     "product_id": 7801259163890,
                     "created_at": "2022-10-08T12:44:34-06:00",
-                    "updated_at": "2022-10-08T12:44:34-06:00"
+                    "updated_at": "2022-10-08T12:55:28-06:00"
                 }
             ],
             "images": [
                 {
-                    "id": 38733557104882,
-                    "created_at": "2022-10-08T12:44:47-06:00",
+                    "id": 38733600096498,
+                    "created_at": "2022-10-08T12:55:32-06:00",
                     "position": 1,
-                    "updated_at": "2022-10-08T12:44:49-06:00",
+                    "updated_at": "2022-10-08T12:55:45-06:00",
                     "product_id": 7801259163890,
                     "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_bf5f2bcc-02af-4722-8dc3-20df2a57b0a5.heic?v=1665254689",
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_1cb9168b-978e-4172-897e-b38632783721.heic?v=1665255345",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38733600620786,
+                    "created_at": "2022-10-08T12:55:35-06:00",
+                    "position": 2,
+                    "updated_at": "2022-10-08T12:55:45-06:00",
+                    "product_id": 7801259163890,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_c116f460-ab29-4a01-92b7-1fac23c3bece.heic?v=1665255345",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38733557793010,
+                    "created_at": "2022-10-08T12:45:07-06:00",
+                    "position": 3,
+                    "updated_at": "2022-10-08T12:55:45-06:00",
+                    "product_id": 7801259163890,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_99c82bf7-fb0f-4ce4-9d22-0756421ed5fc.heic?v=1665255345",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38733558841586,
+                    "created_at": "2022-10-08T12:45:21-06:00",
+                    "position": 4,
+                    "updated_at": "2022-10-08T12:55:45-06:00",
+                    "product_id": 7801259163890,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_310f5635-4436-46ab-9793-4fd7efa51a59.heic?v=1665255345",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38733560217842,
+                    "created_at": "2022-10-08T12:45:34-06:00",
+                    "position": 5,
+                    "updated_at": "2022-10-08T12:55:45-06:00",
+                    "product_id": 7801259163890,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_db01afe5-bd27-4370-86ca-2c7f5dc26add.heic?v=1665255345",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38733560709362,
+                    "created_at": "2022-10-08T12:45:39-06:00",
+                    "position": 6,
+                    "updated_at": "2022-10-08T12:55:45-06:00",
+                    "product_id": 7801259163890,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_8a7cae42-aee6-4221-bac0-adf1a9d7f6a7.heic?v=1665255345",
                     "width": 3024,
                     "height": 3024
                 }
@@ -2235,61 +2378,6 @@
                     "product_id": 7753965437170,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_87b167ff-4b33-491c-b5e2-50c9c3795d80.heic?v=1661466359",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7752696037618,
-            "title": "Honk if You\u2019re Heady",
-            "handle": "honk-if-you-re-heady",
-            "body_html": "<p>8.2\u201d x 2.9\u201d</p>\n<p>free shipping\u00a0</p>",
-            "published_at": "2022-08-24T09:21:08-06:00",
-            "created_at": "2022-08-24T09:21:08-06:00",
-            "updated_at": "2022-09-29T14:57:36-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43537927995634,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "3.50",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7752696037618,
-                    "created_at": "2022-08-24T09:21:08-06:00",
-                    "updated_at": "2022-09-29T14:57:36-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38203865006322,
-                    "created_at": "2022-08-24T09:21:12-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-24T09:21:14-06:00",
-                    "product_id": 7752696037618,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_03bb437f-02fe-4225-97bb-1832101d7ec9.heic?v=1661354474",
                     "width": 3024,
                     "height": 3024
                 }
