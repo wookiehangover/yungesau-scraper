@@ -1,6 +1,83 @@
 {
     "products": [
         {
+            "id": 7801146736882,
+            "title": "Space Your Face Belt Buckle",
+            "handle": "space-your-face-belt-buckle",
+            "body_html": "<p><strong>Year:\u00a0</strong>1992</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
+            "published_at": "2022-10-08T07:57:42-06:00",
+            "created_at": "2022-10-08T07:57:43-06:00",
+            "updated_at": "2022-10-08T07:59:21-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43730840912114,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "125.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7801146736882,
+                    "created_at": "2022-10-08T07:57:43-06:00",
+                    "updated_at": "2022-10-08T07:59:13-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38731449073906,
+                    "created_at": "2022-10-08T07:59:16-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-08T07:59:18-06:00",
+                    "product_id": 7801146736882,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ec003011-8208-4bb8-a53b-04dd72528bca.heic?v=1665237558",
+                    "width": 2711,
+                    "height": 2711
+                },
+                {
+                    "id": 38731449172210,
+                    "created_at": "2022-10-08T07:59:17-06:00",
+                    "position": 2,
+                    "updated_at": "2022-10-08T07:59:19-06:00",
+                    "product_id": 7801146736882,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a7dbf264-6733-4aca-b1b8-56217db1f427.heic?v=1665237559",
+                    "width": 2475,
+                    "height": 2475
+                },
+                {
+                    "id": 38731449237746,
+                    "created_at": "2022-10-08T07:59:19-06:00",
+                    "position": 3,
+                    "updated_at": "2022-10-08T07:59:21-06:00",
+                    "product_id": 7801146736882,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_efec7984-44df-4932-895d-01f93eb6be84.heic?v=1665237561",
+                    "width": 2856,
+                    "height": 2856
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7801136382194,
             "title": "Jerry Garcia Doll",
             "handle": "jerry-garcia-doll",
@@ -370,7 +447,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1986</p>\n<p><strong>Size: </strong>Slim L - 19.5\u201d x 27\u201d</p>\n<p><strong>Condition</strong>: deadstock</p>",
             "published_at": "2022-10-04T13:25:32-06:00",
             "created_at": "2022-10-04T13:25:32-06:00",
-            "updated_at": "2022-10-04T13:25:45-06:00",
+            "updated_at": "2022-10-08T08:00:24-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -386,13 +463,13 @@
                     "taxable": true,
                     "featured_image": null,
                     "available": true,
-                    "price": "200.00",
+                    "price": "185.00",
                     "grams": 0,
-                    "compare_at_price": null,
+                    "compare_at_price": "200.00",
                     "position": 1,
                     "product_id": 7795499335922,
                     "created_at": "2022-10-04T13:25:32-06:00",
-                    "updated_at": "2022-10-04T13:25:32-06:00"
+                    "updated_at": "2022-10-08T08:00:24-06:00"
                 }
             ],
             "images": [
@@ -2213,61 +2290,6 @@
                     "product_id": 7748995809522,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_484cac2b-de42-47b0-a60e-6e5e7343ba08.heic?v=1660964504",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7748995612914,
-            "title": "Reuben",
-            "handle": "reuben",
-            "body_html": "",
-            "published_at": "2022-08-19T21:00:07-06:00",
-            "created_at": "2022-08-19T21:00:07-06:00",
-            "updated_at": "2022-08-26T07:23:16-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43524440752370,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7748995612914,
-                    "created_at": "2022-08-19T21:00:07-06:00",
-                    "updated_at": "2022-08-26T07:23:16-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38163121406194,
-                    "created_at": "2022-08-19T21:00:10-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-19T21:00:13-06:00",
-                    "product_id": 7748995612914,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a51c3cfc-96cc-4b8f-8107-34c46d16c602.heic?v=1660964413",
                     "width": 3024,
                     "height": 3024
                 }
