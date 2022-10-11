@@ -106,7 +106,7 @@
             "body_html": "<p><strong>Year:</strong> 1994</p>\n<p><strong>Size:\u00a0</strong>Large - 20.5\u201d x 27.5\u201d</p>\n<p><strong>Condition:</strong> no flaws</p>",
             "published_at": "2022-10-11T10:19:32-06:00",
             "created_at": "2022-10-11T10:19:32-06:00",
-            "updated_at": "2022-10-11T10:19:45-06:00",
+            "updated_at": "2022-10-11T10:37:14-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -121,14 +121,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "85.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7802785235186,
                     "created_at": "2022-10-11T10:19:32-06:00",
-                    "updated_at": "2022-10-11T10:19:32-06:00"
+                    "updated_at": "2022-10-11T10:33:03-06:00"
                 }
             ],
             "images": [
