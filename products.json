@@ -7,7 +7,7 @@
             "body_html": "<p><strong>Year:</strong> 1995</p>\n<p><strong>Size:\u00a0</strong>Large - 21.5\u201d x 29.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>deadstock</p>",
             "published_at": "2022-10-11T16:46:11-06:00",
             "created_at": "2022-10-11T16:46:11-06:00",
-            "updated_at": "2022-10-11T16:46:23-06:00",
+            "updated_at": "2022-10-11T16:46:34-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -52,6 +52,39 @@
                     "product_id": 7803032502514,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_04677d7e-7821-4b03-99ed-7b2d153f6fed.heic?v=1665528383",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38767281275122,
+                    "created_at": "2022-10-11T16:46:24-06:00",
+                    "position": 3,
+                    "updated_at": "2022-10-11T16:46:27-06:00",
+                    "product_id": 7803032502514,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9b84f912-4f59-4fe1-b8f5-737c0a08d15c.heic?v=1665528387",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38767282127090,
+                    "created_at": "2022-10-11T16:46:29-06:00",
+                    "position": 4,
+                    "updated_at": "2022-10-11T16:46:31-06:00",
+                    "product_id": 7803032502514,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_07ddd706-796e-4a3f-b803-622e7ff36439.heic?v=1665528391",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38767282684146,
+                    "created_at": "2022-10-11T16:46:32-06:00",
+                    "position": 5,
+                    "updated_at": "2022-10-11T16:46:34-06:00",
+                    "product_id": 7803032502514,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_cd456de2-2a91-4538-ae6a-b047c1b3ece5.heic?v=1665528394",
                     "width": 3024,
                     "height": 3024
                 }
