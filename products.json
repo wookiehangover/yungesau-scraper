@@ -1,6 +1,83 @@
 {
     "products": [
         {
+            "id": 7805449666802,
+            "title": "Airbrush Jerry",
+            "handle": "airbrush-jerry",
+            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>Large - 20\u201d x 26.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>minor discoloration on collar as shown\u00a0</p>",
+            "published_at": "2022-10-13T09:43:40-06:00",
+            "created_at": "2022-10-13T09:43:40-06:00",
+            "updated_at": "2022-10-13T09:43:52-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43748131438834,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "100.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7805449666802,
+                    "created_at": "2022-10-13T09:43:40-06:00",
+                    "updated_at": "2022-10-13T09:43:40-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38794069082354,
+                    "created_at": "2022-10-13T09:43:45-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-13T09:43:46-06:00",
+                    "product_id": 7805449666802,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a7b3a452-6f31-48b5-aa02-86afc1da07e3.heic?v=1665675826",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38794069180658,
+                    "created_at": "2022-10-13T09:43:47-06:00",
+                    "position": 2,
+                    "updated_at": "2022-10-13T09:43:49-06:00",
+                    "product_id": 7805449666802,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a72ec9f9-4ff3-450c-8b5f-ccc812e85527.heic?v=1665675829",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38794069508338,
+                    "created_at": "2022-10-13T09:43:50-06:00",
+                    "position": 3,
+                    "updated_at": "2022-10-13T09:43:52-06:00",
+                    "product_id": 7805449666802,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ee3b55a7-13ee-43c7-a929-e7034f8e0416.heic?v=1665675832",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7805390323954,
             "title": "Calvin & Hobbes / Throwing Stones",
             "handle": "calvin-hobbes-throwing-stones",
@@ -2334,61 +2411,6 @@
                     "product_id": 7752696037618,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_03bb437f-02fe-4225-97bb-1832101d7ec9.heic?v=1661354474",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7748995809522,
-            "title": "Cosmic Charlie",
-            "handle": "cosmic-charlie",
-            "body_html": "",
-            "published_at": "2022-08-19T21:01:39-06:00",
-            "created_at": "2022-08-19T21:01:39-06:00",
-            "updated_at": "2022-09-21T12:40:46-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43524441473266,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7748995809522,
-                    "created_at": "2022-08-19T21:01:39-06:00",
-                    "updated_at": "2022-09-21T12:38:05-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38163126878450,
-                    "created_at": "2022-08-19T21:01:42-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-19T21:01:44-06:00",
-                    "product_id": 7748995809522,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_484cac2b-de42-47b0-a60e-6e5e7343ba08.heic?v=1660964504",
                     "width": 3024,
                     "height": 3024
                 }
