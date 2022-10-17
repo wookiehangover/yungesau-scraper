@@ -7,7 +7,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1985</p>\n<p><strong>Condition:\u00a0</strong>no flaw</p>",
             "published_at": "2022-10-17T15:08:55-06:00",
             "created_at": "2022-10-17T15:08:55-06:00",
-            "updated_at": "2022-10-17T15:13:57-06:00",
+            "updated_at": "2022-10-17T16:05:49-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -41,14 +41,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "85.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 2,
                     "product_id": 7808339738866,
                     "created_at": "2022-10-17T15:08:55-06:00",
-                    "updated_at": "2022-10-17T15:13:57-06:00"
+                    "updated_at": "2022-10-17T16:04:03-06:00"
                 }
             ],
             "images": [
