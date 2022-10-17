@@ -1,6 +1,158 @@
 {
     "products": [
         {
+            "id": 7808339738866,
+            "title": "20th Anniversary Bandanas by Jerry Jaspar",
+            "handle": "20th-anniversary-bandanas-by-jerry-jaspar",
+            "body_html": "<p><strong>Year:\u00a0</strong>1985</p>\n<p><strong>Condition:\u00a0</strong>no flaw</p>",
+            "published_at": "2022-10-17T15:08:55-06:00",
+            "created_at": "2022-10-17T15:08:55-06:00",
+            "updated_at": "2022-10-17T15:13:57-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43758642004210,
+                    "title": "Teal",
+                    "option1": "Teal",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "85.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7808339738866,
+                    "created_at": "2022-10-17T15:08:55-06:00",
+                    "updated_at": "2022-10-17T15:13:57-06:00"
+                },
+                {
+                    "id": 43758642036978,
+                    "title": "White",
+                    "option1": "White",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "85.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 2,
+                    "product_id": 7808339738866,
+                    "created_at": "2022-10-17T15:08:55-06:00",
+                    "updated_at": "2022-10-17T15:13:57-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38839515119858,
+                    "created_at": "2022-10-17T15:09:17-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-17T15:09:20-06:00",
+                    "product_id": 7808339738866,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_3ba8083a-a3e7-4502-aa0b-aae8f536ec63.heic?v=1666040960",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38839518200050,
+                    "created_at": "2022-10-17T15:09:42-06:00",
+                    "position": 2,
+                    "updated_at": "2022-10-17T15:09:44-06:00",
+                    "product_id": 7808339738866,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_c1dfd55f-8f5e-4122-9496-f73ea225c33b.heic?v=1666040984",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38839519215858,
+                    "created_at": "2022-10-17T15:10:01-06:00",
+                    "position": 3,
+                    "updated_at": "2022-10-17T15:10:03-06:00",
+                    "product_id": 7808339738866,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_1b200407-cc19-4887-9df9-14f863c069d7.heic?v=1666041003",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38839524557042,
+                    "created_at": "2022-10-17T15:11:05-06:00",
+                    "position": 4,
+                    "updated_at": "2022-10-17T15:11:07-06:00",
+                    "product_id": 7808339738866,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5169aa28-c455-48a0-863b-fb75e8e5bd30.heic?v=1666041067",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38839526981874,
+                    "created_at": "2022-10-17T15:11:32-06:00",
+                    "position": 5,
+                    "updated_at": "2022-10-17T15:11:34-06:00",
+                    "product_id": 7808339738866,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5313002d-1097-4db5-bf3c-0573a671f4ce.heic?v=1666041094",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38839528423666,
+                    "created_at": "2022-10-17T15:11:50-06:00",
+                    "position": 6,
+                    "updated_at": "2022-10-17T15:11:52-06:00",
+                    "product_id": 7808339738866,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_3b4bc9e0-3885-402b-9e26-d732378f8eff.heic?v=1666041112",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38839534354674,
+                    "created_at": "2022-10-17T15:12:44-06:00",
+                    "position": 7,
+                    "updated_at": "2022-10-17T15:12:46-06:00",
+                    "product_id": 7808339738866,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_19efb56a-bbd3-4184-8b71-f4338d3cb456.heic?v=1666041166",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38839536386290,
+                    "created_at": "2022-10-17T15:13:08-06:00",
+                    "position": 8,
+                    "updated_at": "2022-10-17T15:13:10-06:00",
+                    "product_id": 7808339738866,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_eed4b731-4315-425c-8d88-bf70870f6450.heic?v=1666041190",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Color",
+                    "position": 1,
+                    "values": [
+                        "Teal",
+                        "White"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7808201752818,
             "title": "100% Hemp Bar Hat",
             "handle": "100-hemp-bar-hat",
@@ -2457,61 +2609,6 @@
                     "product_id": 7754688168178,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_b2568db3-8030-40c8-8197-1031ea356fe3.heic?v=1661521162",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7754688102642,
-            "title": "Dupree",
-            "handle": "dupree",
-            "body_html": null,
-            "published_at": "2022-08-26T07:38:54-06:00",
-            "created_at": "2022-08-26T07:38:54-06:00",
-            "updated_at": "2022-08-26T07:39:02-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43551250710770,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7754688102642,
-                    "created_at": "2022-08-26T07:38:54-06:00",
-                    "updated_at": "2022-08-26T07:38:54-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38222986805490,
-                    "created_at": "2022-08-26T07:39:00-06:00",
-                    "position": 1,
-                    "updated_at": "2022-08-26T07:39:02-06:00",
-                    "product_id": 7754688102642,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_cfcfcc49-ab38-435c-8f5b-f8ee816eee73.heic?v=1661521142",
                     "width": 3024,
                     "height": 3024
                 }
