@@ -4,10 +4,10 @@
             "id": 7810893447410,
             "title": "Jeff Bedrick Tapestry",
             "handle": "jeff-bedrick-tapestry",
-            "body_html": "<p><strong>Year:\u00a0</strong>1984</p>\n<p><strong>Size:\u00a0</strong>Approx 45\u201d x 45\u201d</p>\n<p><strong>Condition:</strong> some flaws as shown</p>",
+            "body_html": "<p><strong>Year:\u00a0</strong>1984</p>\n<p><strong>Size:\u00a0</strong>Approx 45\u201d x 45\u201d (3 feet 9 inches)</p>\n<p><strong>Condition:</strong> some flaws as shown</p>",
             "published_at": "2022-10-21T13:08:32-06:00",
             "created_at": "2022-10-21T10:32:24-06:00",
-            "updated_at": "2022-10-21T13:08:32-06:00",
+            "updated_at": "2022-10-21T13:21:30-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -22,14 +22,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "200.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7810893447410,
                     "created_at": "2022-10-21T10:32:24-06:00",
-                    "updated_at": "2022-10-21T13:08:32-06:00"
+                    "updated_at": "2022-10-21T13:15:51-06:00"
                 }
             ],
             "images": [
@@ -161,7 +161,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size:\u00a0</strong>Large - 20.5\u201d x 27\u201d</p>\n<p><strong>Condition:\u00a0</strong>two minor flaws as shown</p>",
             "published_at": "2022-10-21T09:45:57-06:00",
             "created_at": "2022-10-21T09:45:57-06:00",
-            "updated_at": "2022-10-21T09:46:12-06:00",
+            "updated_at": "2022-10-21T13:23:50-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -176,14 +176,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "115.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7810875916530,
                     "created_at": "2022-10-21T09:45:57-06:00",
-                    "updated_at": "2022-10-21T09:45:57-06:00"
+                    "updated_at": "2022-10-21T13:23:50-06:00"
                 }
             ],
             "images": [
