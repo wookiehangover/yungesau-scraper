@@ -1,13 +1,101 @@
 {
     "products": [
         {
+            "id": 7811401646322,
+            "title": "Jack Daniels Bandana",
+            "handle": "jack-daniels-bandana",
+            "body_html": "<p><strong>Year:\u00a0</strong>80s/90s</p>\n<p><strong>Size:\u00a0</strong>approx 21\u201d x 21\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
+            "published_at": "2022-10-22T09:32:33-06:00",
+            "created_at": "2022-10-22T09:32:33-06:00",
+            "updated_at": "2022-10-22T09:32:59-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43770924957938,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "25.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7811401646322,
+                    "created_at": "2022-10-22T09:32:33-06:00",
+                    "updated_at": "2022-10-22T09:32:59-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38893189038322,
+                    "created_at": "2022-10-22T09:32:38-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-22T09:32:41-06:00",
+                    "product_id": 7811401646322,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_cdbe8669-5abf-4ee7-80b5-1d574a1439bf.heic?v=1666452761",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38893189366002,
+                    "created_at": "2022-10-22T09:32:41-06:00",
+                    "position": 2,
+                    "updated_at": "2022-10-22T09:32:44-06:00",
+                    "product_id": 7811401646322,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_0afe5fb1-f5ca-4abf-abbe-0ed8f3d0b557.heic?v=1666452764",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38893189497074,
+                    "created_at": "2022-10-22T09:32:44-06:00",
+                    "position": 3,
+                    "updated_at": "2022-10-22T09:32:47-06:00",
+                    "product_id": 7811401646322,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_d40eaa02-85bc-450d-beda-387a8be6edf4.heic?v=1666452767",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38893189628146,
+                    "created_at": "2022-10-22T09:32:47-06:00",
+                    "position": 4,
+                    "updated_at": "2022-10-22T09:32:49-06:00",
+                    "product_id": 7811401646322,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_c3fd74c9-c4bf-4fe8-b6d1-150950416080.heic?v=1666452769",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7811037495538,
             "title": "For lermology",
             "handle": "for-lermology-1",
             "body_html": null,
             "published_at": "2022-10-21T20:37:14-06:00",
             "created_at": "2022-10-21T20:37:14-06:00",
-            "updated_at": "2022-10-22T09:29:42-06:00",
+            "updated_at": "2022-10-22T09:31:47-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -2613,105 +2701,6 @@
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_3da546b0-cfb8-4151-ab90-aa42ce6bc7f0.jpg?v=1662128734",
                     "width": 1440,
                     "height": 1440
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7763997917426,
-            "title": "Gratefully Deadicated to the Band",
-            "handle": "gratefully-deadicated-to-the-band",
-            "body_html": "<p><strong>Year:\u00a0</strong>1986</p>\n<p><strong>Size:\u00a0</strong>Large - 20.5\u201d x 27\u201d</p>\n<p><strong>Condition:\u00a0</strong>some yellowing as shown</p>",
-            "published_at": "2022-09-01T16:23:07-06:00",
-            "created_at": "2022-09-01T16:23:07-06:00",
-            "updated_at": "2022-09-12T07:59:11-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43590672613618,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": false,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "105.00",
-                    "grams": 0,
-                    "compare_at_price": "125.00",
-                    "position": 1,
-                    "product_id": 7763997917426,
-                    "created_at": "2022-09-01T16:23:07-06:00",
-                    "updated_at": "2022-09-12T07:59:11-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38287681290482,
-                    "created_at": "2022-09-01T16:23:13-06:00",
-                    "position": 1,
-                    "updated_at": "2022-09-01T16:23:15-06:00",
-                    "product_id": 7763997917426,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_74b68756-48de-4bde-83e7-a0de889206ee.heic?v=1662070995",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38287681782002,
-                    "created_at": "2022-09-01T16:23:19-06:00",
-                    "position": 2,
-                    "updated_at": "2022-09-01T16:23:21-06:00",
-                    "product_id": 7763997917426,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_70e9a562-47b7-43b9-a296-374b0bc32cf1.heic?v=1662071001",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38287682863346,
-                    "created_at": "2022-09-01T16:23:27-06:00",
-                    "position": 3,
-                    "updated_at": "2022-09-01T16:23:29-06:00",
-                    "product_id": 7763997917426,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5b1906f2-613b-4921-890e-4329d8ee04d9.heic?v=1662071009",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38287684108530,
-                    "created_at": "2022-09-01T16:23:32-06:00",
-                    "position": 4,
-                    "updated_at": "2022-09-01T16:23:33-06:00",
-                    "product_id": 7763997917426,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a10e4aff-cda9-4ea0-81e9-0d17500f47d1.heic?v=1662071013",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38287684468978,
-                    "created_at": "2022-09-01T16:23:36-06:00",
-                    "position": 5,
-                    "updated_at": "2022-09-01T16:23:38-06:00",
-                    "product_id": 7763997917426,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a13daf71-a145-4111-9a4d-efaa7c1492dd.heic?v=1662071018",
-                    "width": 3024,
-                    "height": 3024
                 }
             ],
             "options": [
