@@ -1,6 +1,61 @@
 {
     "products": [
         {
+            "id": 7812765876466,
+            "title": "Lith",
+            "handle": "lith",
+            "body_html": null,
+            "published_at": "2022-10-25T14:54:52-06:00",
+            "created_at": "2022-10-25T14:54:53-06:00",
+            "updated_at": "2022-10-25T14:55:17-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43778475753714,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "250.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7812765876466,
+                    "created_at": "2022-10-25T14:54:53-06:00",
+                    "updated_at": "2022-10-25T14:54:53-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38925576863986,
+                    "created_at": "2022-10-25T14:55:15-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-25T14:55:17-06:00",
+                    "product_id": 7812765876466,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_19c228e3-5220-461d-bc30-534c222efea1.png?v=1666731317",
+                    "width": 1125,
+                    "height": 2436
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7812699160818,
             "title": "Daniel",
             "handle": "daniel",
@@ -1983,7 +2038,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1986</p>\n<p><strong>Size: </strong>Slim L - 19.5\u201d x 27\u201d</p>\n<p><strong>Condition</strong>: deadstock</p>",
             "published_at": "2022-10-04T13:25:32-06:00",
             "created_at": "2022-10-04T13:25:32-06:00",
-            "updated_at": "2022-10-25T14:45:21-06:00",
+            "updated_at": "2022-10-25T14:52:24-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -2435,61 +2490,6 @@
                     "product_id": 7764688568562,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_4e4ebe9f-c079-43af-80eb-f265b4b92001.heic?v=1662153933",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7764538130674,
-            "title": "Cats Under the Stars",
-            "handle": "cats-under-the-stars",
-            "body_html": "<p>Approx 5\u201d x 5\u201d</p>",
-            "published_at": "2022-09-02T08:48:09-06:00",
-            "created_at": "2022-09-02T08:48:09-06:00",
-            "updated_at": "2022-10-04T19:35:43-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43593832988914,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "10.00",
-                    "grams": 0,
-                    "compare_at_price": "20.00",
-                    "position": 1,
-                    "product_id": 7764538130674,
-                    "created_at": "2022-09-02T08:48:09-06:00",
-                    "updated_at": "2022-10-04T19:33:56-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38294869868786,
-                    "created_at": "2022-09-02T08:48:14-06:00",
-                    "position": 1,
-                    "updated_at": "2022-09-02T08:48:16-06:00",
-                    "product_id": 7764538130674,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_87d9a363-2b29-4d72-8ef8-2fbda6cce7fe.heic?v=1662130096",
                     "width": 3024,
                     "height": 3024
                 }
