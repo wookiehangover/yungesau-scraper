@@ -1983,7 +1983,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1986</p>\n<p><strong>Size: </strong>Slim L - 19.5\u201d x 27\u201d</p>\n<p><strong>Condition</strong>: deadstock</p>",
             "published_at": "2022-10-04T13:25:32-06:00",
             "created_at": "2022-10-04T13:25:32-06:00",
-            "updated_at": "2022-10-08T08:00:24-06:00",
+            "updated_at": "2022-10-25T14:45:21-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1998,14 +1998,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "185.00",
                     "grams": 0,
                     "compare_at_price": "200.00",
                     "position": 1,
                     "product_id": 7795499335922,
                     "created_at": "2022-10-04T13:25:32-06:00",
-                    "updated_at": "2022-10-08T08:00:24-06:00"
+                    "updated_at": "2022-10-25T14:45:21-06:00"
                 }
             ],
             "images": [
