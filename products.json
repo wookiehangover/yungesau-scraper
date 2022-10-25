@@ -1,6 +1,61 @@
 {
     "products": [
         {
+            "id": 7812699160818,
+            "title": "Daniel",
+            "handle": "daniel",
+            "body_html": null,
+            "published_at": "2022-10-25T12:44:43-06:00",
+            "created_at": "2022-10-25T12:44:43-06:00",
+            "updated_at": "2022-10-25T12:44:52-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43778116681970,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "65.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7812699160818,
+                    "created_at": "2022-10-25T12:44:43-06:00",
+                    "updated_at": "2022-10-25T12:44:43-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38924550701298,
+                    "created_at": "2022-10-25T12:44:49-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-25T12:44:51-06:00",
+                    "product_id": 7812699160818,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_96bcde55-f59d-4789-bfbd-a5ea58442b47.jpg?v=1666723491",
+                    "width": 1125,
+                    "height": 1276
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7812683170034,
             "title": "Brayden",
             "handle": "brayden",
@@ -2435,61 +2490,6 @@
                     "product_id": 7764538130674,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_87d9a363-2b29-4d72-8ef8-2fbda6cce7fe.heic?v=1662130096",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7764537311474,
-            "title": "Paradise Waits",
-            "handle": "paradise-waits",
-            "body_html": "<p>Approx 3\u201d x 4.2\u201d</p>",
-            "published_at": "2022-09-02T08:46:15-06:00",
-            "created_at": "2022-09-02T08:46:15-06:00",
-            "updated_at": "2022-10-04T12:41:06-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43593828565234,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7764537311474,
-                    "created_at": "2022-09-02T08:46:15-06:00",
-                    "updated_at": "2022-10-04T12:38:40-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38294857744626,
-                    "created_at": "2022-09-02T08:46:18-06:00",
-                    "position": 1,
-                    "updated_at": "2022-09-02T08:46:20-06:00",
-                    "product_id": 7764537311474,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_2f3afdec-3984-4645-8460-86a140531c48.heic?v=1662129980",
                     "width": 3024,
                     "height": 3024
                 }
