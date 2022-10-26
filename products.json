@@ -1,6 +1,61 @@
 {
     "products": [
         {
+            "id": 7812887249138,
+            "title": "Phoenix",
+            "handle": "phoenix",
+            "body_html": null,
+            "published_at": "2022-10-25T20:48:57-06:00",
+            "created_at": "2022-10-25T20:48:58-06:00",
+            "updated_at": "2022-10-25T20:55:54-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43778910519538,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "55.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7812887249138,
+                    "created_at": "2022-10-25T20:48:58-06:00",
+                    "updated_at": "2022-10-25T20:52:38-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38928148496626,
+                    "created_at": "2022-10-25T20:49:08-06:00",
+                    "position": 1,
+                    "updated_at": "2022-10-25T20:49:09-06:00",
+                    "product_id": 7812887249138,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ec31fafc-9532-4f40-806e-83f030594cb6.jpg?v=1666752549",
+                    "width": 1125,
+                    "height": 1532
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7812765876466,
             "title": "Lith",
             "handle": "lith",
@@ -2413,83 +2468,6 @@
                     "product_id": 7765366571250,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9d185712-7513-4041-b96d-6f4dd87ecb2e.heic?v=1662216534",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7764688568562,
-            "title": "Grateful Dead Lightweight Hoodie",
-            "handle": "grateful-dead-lightweight-hoodie",
-            "body_html": "<p><strong>Year:\u00a0</strong>1980s</p>\n<p><strong>Size:\u00a0</strong>Large - 20\u201d x 26.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>deadstock</p>\n<p>\u00a0</p>\n<p>SUPER LIGHT WEIGHT!</p>",
-            "published_at": "2022-09-02T15:25:17-06:00",
-            "created_at": "2022-09-02T15:25:18-06:00",
-            "updated_at": "2022-09-28T10:55:22-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43594922721522,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": "",
-                    "requires_shipping": true,
-                    "taxable": false,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "100.00",
-                    "grams": 0,
-                    "compare_at_price": "115.00",
-                    "position": 1,
-                    "product_id": 7764688568562,
-                    "created_at": "2022-09-02T15:25:18-06:00",
-                    "updated_at": "2022-09-28T10:55:22-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38297412337906,
-                    "created_at": "2022-09-02T15:25:24-06:00",
-                    "position": 1,
-                    "updated_at": "2022-09-02T15:25:27-06:00",
-                    "product_id": 7764688568562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_69f689a3-5e6e-4003-abcd-7115bee681ec.heic?v=1662153927",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38297412403442,
-                    "created_at": "2022-09-02T15:25:28-06:00",
-                    "position": 2,
-                    "updated_at": "2022-09-02T15:25:29-06:00",
-                    "product_id": 7764688568562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_18808d32-e924-4012-af76-54c95b9c67cd.heic?v=1662153929",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38297412468978,
-                    "created_at": "2022-09-02T15:25:31-06:00",
-                    "position": 3,
-                    "updated_at": "2022-09-02T15:25:33-06:00",
-                    "product_id": 7764688568562,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_4e4ebe9f-c079-43af-80eb-f265b4b92001.heic?v=1662153933",
                     "width": 3024,
                     "height": 3024
                 }
