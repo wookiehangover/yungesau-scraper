@@ -337,7 +337,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>80s/90s</p>\n<p><strong>Size:\u00a0</strong>approx 21\u201d x 21\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-10-22T09:32:33-06:00",
             "created_at": "2022-10-22T09:32:33-06:00",
-            "updated_at": "2022-10-22T09:32:59-06:00",
+            "updated_at": "2022-10-27T05:56:03-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -352,14 +352,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "25.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7811401646322,
                     "created_at": "2022-10-22T09:32:33-06:00",
-                    "updated_at": "2022-10-22T09:32:59-06:00"
+                    "updated_at": "2022-10-27T05:53:15-06:00"
                 }
             ],
             "images": [
