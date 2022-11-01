@@ -254,61 +254,6 @@
             ]
         },
         {
-            "id": 7817298542834,
-            "title": "For erik",
-            "handle": "for-erik",
-            "body_html": null,
-            "published_at": "2022-11-01T09:54:58-06:00",
-            "created_at": "2022-11-01T09:54:58-06:00",
-            "updated_at": "2022-11-01T10:10:52-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43795513409778,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "40.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7817298542834,
-                    "created_at": "2022-11-01T09:54:58-06:00",
-                    "updated_at": "2022-11-01T10:09:25-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38984498446578,
-                    "created_at": "2022-11-01T09:55:03-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-01T09:55:05-06:00",
-                    "product_id": 7817298542834,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_fffc3ca0-9656-476e-8f16-2d6c7bbf686b.png?v=1667318105",
-                    "width": 1125,
-                    "height": 2436
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 7817289203954,
             "title": "Spinner",
             "handle": "spinner",
@@ -2087,6 +2032,72 @@
                     "product_id": 7817280454898,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_d72b3d07-6146-4d31-b6d9-dd6f712b10e0.heic?v=1667316182",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7817280159986,
+            "title": "Picasso Moon",
+            "handle": "picasso-moon",
+            "body_html": null,
+            "published_at": "2022-11-01T09:22:21-06:00",
+            "created_at": "2022-11-01T09:22:21-06:00",
+            "updated_at": "2022-11-01T09:22:28-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43795448856818,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "15.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7817280159986,
+                    "created_at": "2022-11-01T09:22:21-06:00",
+                    "updated_at": "2022-11-01T09:22:21-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38984242102514,
+                    "created_at": "2022-11-01T09:22:24-06:00",
+                    "position": 1,
+                    "updated_at": "2022-11-01T09:22:26-06:00",
+                    "product_id": 7817280159986,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_400dd859-d6e1-4c7d-8a43-185866889492.heic?v=1667316146",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38984242495730,
+                    "created_at": "2022-11-01T09:22:26-06:00",
+                    "position": 2,
+                    "updated_at": "2022-11-01T09:22:28-06:00",
+                    "product_id": 7817280159986,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_78926635-3890-485a-8a62-b4a3a8b2732a.heic?v=1667316148",
                     "width": 3024,
                     "height": 3024
                 }
