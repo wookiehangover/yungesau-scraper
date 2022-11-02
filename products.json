@@ -1,6 +1,282 @@
 {
     "products": [
         {
+            "id": 7818184950002,
+            "title": "Marching Bears",
+            "handle": "marching-bear",
+            "body_html": "<p>Wind up toy!</p>",
+            "published_at": "2022-11-02T11:25:17-06:00",
+            "created_at": "2022-11-02T11:25:17-06:00",
+            "updated_at": "2022-11-02T11:26:24-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43798801547506,
+                    "title": "Yellow",
+                    "option1": "Yellow",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38996160282866,
+                        "product_id": 7818184950002,
+                        "position": 2,
+                        "created_at": "2022-11-02T11:25:24-06:00",
+                        "updated_at": "2022-11-02T11:25:25-06:00",
+                        "alt": null,
+                        "width": 3024,
+                        "height": 3024,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_98f14b40-1cfc-4096-812d-9d6f9687bd11.heic?v=1667409925",
+                        "variant_ids": [
+                            43798801547506
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7818184950002,
+                    "created_at": "2022-11-02T11:25:17-06:00",
+                    "updated_at": "2022-11-02T11:26:22-06:00"
+                },
+                {
+                    "id": 43798801580274,
+                    "title": "Green",
+                    "option1": "Green",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38996160839922,
+                        "product_id": 7818184950002,
+                        "position": 3,
+                        "created_at": "2022-11-02T11:25:28-06:00",
+                        "updated_at": "2022-11-02T11:25:29-06:00",
+                        "alt": null,
+                        "width": 3024,
+                        "height": 3024,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_edb4fba6-704a-4b11-96ae-a1d7f975b5dd.heic?v=1667409929",
+                        "variant_ids": [
+                            43798801580274
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 2,
+                    "product_id": 7818184950002,
+                    "created_at": "2022-11-02T11:25:17-06:00",
+                    "updated_at": "2022-11-02T11:26:22-06:00"
+                },
+                {
+                    "id": 43798801613042,
+                    "title": "Purple",
+                    "option1": "Purple",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38996161134834,
+                        "product_id": 7818184950002,
+                        "position": 4,
+                        "created_at": "2022-11-02T11:25:29-06:00",
+                        "updated_at": "2022-11-02T11:25:31-06:00",
+                        "alt": null,
+                        "width": 3024,
+                        "height": 3024,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_27a29594-5bf2-4968-a980-907bbdb68083.heic?v=1667409931",
+                        "variant_ids": [
+                            43798801613042
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 3,
+                    "product_id": 7818184950002,
+                    "created_at": "2022-11-02T11:25:17-06:00",
+                    "updated_at": "2022-11-02T11:26:21-06:00"
+                },
+                {
+                    "id": 43798801645810,
+                    "title": "Blue",
+                    "option1": "Blue",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38996161724658,
+                        "product_id": 7818184950002,
+                        "position": 5,
+                        "created_at": "2022-11-02T11:25:31-06:00",
+                        "updated_at": "2022-11-02T11:25:33-06:00",
+                        "alt": null,
+                        "width": 3024,
+                        "height": 3024,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_d42ce567-1744-4e7f-bfff-c6a238d1892a.heic?v=1667409933",
+                        "variant_ids": [
+                            43798801645810
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 4,
+                    "product_id": 7818184950002,
+                    "created_at": "2022-11-02T11:25:17-06:00",
+                    "updated_at": "2022-11-02T11:26:20-06:00"
+                },
+                {
+                    "id": 43798801678578,
+                    "title": "Red",
+                    "option1": "Red",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": {
+                        "id": 38996161986802,
+                        "product_id": 7818184950002,
+                        "position": 6,
+                        "created_at": "2022-11-02T11:25:34-06:00",
+                        "updated_at": "2022-11-02T11:25:36-06:00",
+                        "alt": null,
+                        "width": 3024,
+                        "height": 3024,
+                        "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f4bb3249-71a7-470e-a329-8171e8675005.heic?v=1667409936",
+                        "variant_ids": [
+                            43798801678578
+                        ]
+                    },
+                    "available": true,
+                    "price": "20.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 5,
+                    "product_id": 7818184950002,
+                    "created_at": "2022-11-02T11:25:17-06:00",
+                    "updated_at": "2022-11-02T11:26:24-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38996160053490,
+                    "created_at": "2022-11-02T11:25:22-06:00",
+                    "position": 1,
+                    "updated_at": "2022-11-02T11:25:24-06:00",
+                    "product_id": 7818184950002,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_54821783-4d10-4c3b-a06e-18b99dbe01c5.heic?v=1667409924",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38996160282866,
+                    "created_at": "2022-11-02T11:25:24-06:00",
+                    "position": 2,
+                    "updated_at": "2022-11-02T11:25:25-06:00",
+                    "product_id": 7818184950002,
+                    "variant_ids": [
+                        43798801547506
+                    ],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_98f14b40-1cfc-4096-812d-9d6f9687bd11.heic?v=1667409925",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38996160839922,
+                    "created_at": "2022-11-02T11:25:28-06:00",
+                    "position": 3,
+                    "updated_at": "2022-11-02T11:25:29-06:00",
+                    "product_id": 7818184950002,
+                    "variant_ids": [
+                        43798801580274
+                    ],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_edb4fba6-704a-4b11-96ae-a1d7f975b5dd.heic?v=1667409929",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38996161134834,
+                    "created_at": "2022-11-02T11:25:29-06:00",
+                    "position": 4,
+                    "updated_at": "2022-11-02T11:25:31-06:00",
+                    "product_id": 7818184950002,
+                    "variant_ids": [
+                        43798801613042
+                    ],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_27a29594-5bf2-4968-a980-907bbdb68083.heic?v=1667409931",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38996161724658,
+                    "created_at": "2022-11-02T11:25:31-06:00",
+                    "position": 5,
+                    "updated_at": "2022-11-02T11:25:33-06:00",
+                    "product_id": 7818184950002,
+                    "variant_ids": [
+                        43798801645810
+                    ],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_d42ce567-1744-4e7f-bfff-c6a238d1892a.heic?v=1667409933",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38996161986802,
+                    "created_at": "2022-11-02T11:25:34-06:00",
+                    "position": 6,
+                    "updated_at": "2022-11-02T11:25:36-06:00",
+                    "product_id": 7818184950002,
+                    "variant_ids": [
+                        43798801678578
+                    ],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f4bb3249-71a7-470e-a329-8171e8675005.heic?v=1667409936",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38996162773234,
+                    "created_at": "2022-11-02T11:25:37-06:00",
+                    "position": 7,
+                    "updated_at": "2022-11-02T11:25:38-06:00",
+                    "product_id": 7818184950002,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_4a35be74-ddf9-4710-a57c-83bf69f0fc50.heic?v=1667409938",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Color",
+                    "position": 1,
+                    "values": [
+                        "Yellow",
+                        "Green",
+                        "Purple",
+                        "Blue",
+                        "Red"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7818162110706,
             "title": "Stackhouse Trucking",
             "handle": "stackhouse-trucking",
@@ -2043,72 +2319,6 @@
                     "product_id": 7817281437938,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f5cfc421-8cdb-4691-a6a5-ed9f15cb34ec.heic?v=1667316275",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7817281110258,
-            "title": "Sugar Wags",
-            "handle": "sugar-wags",
-            "body_html": null,
-            "published_at": "2022-11-01T09:23:56-06:00",
-            "created_at": "2022-11-01T09:23:56-06:00",
-            "updated_at": "2022-11-01T09:24:04-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43795450691826,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "20.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7817281110258,
-                    "created_at": "2022-11-01T09:23:56-06:00",
-                    "updated_at": "2022-11-01T09:23:56-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38984257372402,
-                    "created_at": "2022-11-01T09:23:59-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-01T09:24:01-06:00",
-                    "product_id": 7817281110258,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_46047cfb-cb9c-4e25-85d9-68ebaeba27f8.heic?v=1667316241",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38984258060530,
-                    "created_at": "2022-11-01T09:24:01-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-01T09:24:04-06:00",
-                    "product_id": 7817281110258,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_68518612-bec7-4890-ad97-65831a177280.heic?v=1667316244",
                     "width": 3024,
                     "height": 3024
                 }
