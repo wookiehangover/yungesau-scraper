@@ -7,7 +7,7 @@
             "body_html": "<p>Wind up toy!</p>",
             "published_at": "2022-11-02T11:25:17-06:00",
             "created_at": "2022-11-02T11:25:17-06:00",
-            "updated_at": "2022-11-02T15:30:47-06:00",
+            "updated_at": "2022-11-02T17:05:26-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -99,14 +99,14 @@
                             43798801613042
                         ]
                     },
-                    "available": true,
+                    "available": false,
                     "price": "20.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 3,
                     "product_id": 7818184950002,
                     "created_at": "2022-11-02T11:25:17-06:00",
-                    "updated_at": "2022-11-02T15:24:50-06:00"
+                    "updated_at": "2022-11-02T17:05:26-06:00"
                 },
                 {
                     "id": 43798801645810,
@@ -1416,7 +1416,7 @@
             "body_html": null,
             "published_at": "2022-11-01T09:31:03-06:00",
             "created_at": "2022-11-01T09:31:03-06:00",
-            "updated_at": "2022-11-01T09:31:11-06:00",
+            "updated_at": "2022-11-02T17:05:26-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1431,14 +1431,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "15.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7817285763314,
                     "created_at": "2022-11-01T09:31:03-06:00",
-                    "updated_at": "2022-11-01T09:31:03-06:00"
+                    "updated_at": "2022-11-02T17:05:26-06:00"
                 }
             ],
             "images": [
