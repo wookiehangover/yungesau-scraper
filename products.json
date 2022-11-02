@@ -7,7 +7,7 @@
             "body_html": "<p>Wind up toy!</p>",
             "published_at": "2022-11-02T11:25:17-06:00",
             "created_at": "2022-11-02T11:25:17-06:00",
-            "updated_at": "2022-11-02T15:25:37-06:00",
+            "updated_at": "2022-11-02T15:30:47-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -131,14 +131,14 @@
                             43798801645810
                         ]
                     },
-                    "available": true,
+                    "available": false,
                     "price": "20.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 4,
                     "product_id": 7818184950002,
                     "created_at": "2022-11-02T11:25:17-06:00",
-                    "updated_at": "2022-11-02T12:11:01-06:00"
+                    "updated_at": "2022-11-02T15:29:17-06:00"
                 },
                 {
                     "id": 43798801678578,
@@ -163,14 +163,14 @@
                             43798801678578
                         ]
                     },
-                    "available": true,
+                    "available": false,
                     "price": "20.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 5,
                     "product_id": 7818184950002,
                     "created_at": "2022-11-02T11:25:17-06:00",
-                    "updated_at": "2022-11-02T14:03:27-06:00"
+                    "updated_at": "2022-11-02T15:29:15-06:00"
                 }
             ],
             "images": [
