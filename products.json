@@ -7,7 +7,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>early 2k</p>\n<p><strong>Size:\u00a0</strong>XL - 24\u201d x 26\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-11-03T09:25:34-06:00",
             "created_at": "2022-11-03T09:25:34-06:00",
-            "updated_at": "2022-11-03T09:25:44-06:00",
+            "updated_at": "2022-11-03T10:11:18-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -22,14 +22,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "35.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7820370346226,
                     "created_at": "2022-11-03T09:25:34-06:00",
-                    "updated_at": "2022-11-03T09:25:34-06:00"
+                    "updated_at": "2022-11-03T10:11:18-06:00"
                 }
             ],
             "images": [
