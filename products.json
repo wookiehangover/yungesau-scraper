@@ -128,7 +128,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>Large - 22 x 27\u201d</p>\n<p><strong>Condition:</strong> some minor marks/yellowing throughout. Hard to capture\u00a0</p>",
             "published_at": "2022-11-03T10:39:26-06:00",
             "created_at": "2022-11-03T10:39:26-06:00",
-            "updated_at": "2022-11-03T10:39:42-06:00",
+            "updated_at": "2022-11-03T19:35:23-06:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -143,14 +143,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "200.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7820514394354,
                     "created_at": "2022-11-03T10:39:26-06:00",
-                    "updated_at": "2022-11-03T10:39:26-06:00"
+                    "updated_at": "2022-11-03T19:32:16-06:00"
                 }
             ],
             "images": [
