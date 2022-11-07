@@ -1,6 +1,61 @@
 {
     "products": [
         {
+            "id": 7821915160818,
+            "title": "For David",
+            "handle": "for-david-3",
+            "body_html": null,
+            "published_at": "2022-11-06T16:58:50-07:00",
+            "created_at": "2022-11-06T16:58:50-07:00",
+            "updated_at": "2022-11-06T17:05:53-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43808233521394,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "115.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7821915160818,
+                    "created_at": "2022-11-06T16:58:50-07:00",
+                    "updated_at": "2022-11-06T17:01:06-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39040374931698,
+                    "created_at": "2022-11-06T16:59:00-07:00",
+                    "position": 1,
+                    "updated_at": "2022-11-06T16:59:01-07:00",
+                    "product_id": 7821915160818,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_4aa90766-38be-4001-95b1-3661951f69ac.png?v=1667779141",
+                    "width": 1125,
+                    "height": 2436
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7821551468786,
             "title": "Sunshine Daydream",
             "handle": "sunshine-daydream",
@@ -2065,72 +2120,6 @@
                     "product_id": 7817282289906,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_4e03a334-4b19-496a-b4c6-21cb32653f27.heic?v=1667316359",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7817282060530,
-            "title": "Daydream",
-            "handle": "daydream",
-            "body_html": null,
-            "published_at": "2022-11-01T09:25:26-06:00",
-            "created_at": "2022-11-01T09:25:26-06:00",
-            "updated_at": "2022-11-01T09:25:33-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43795453247730,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7817282060530,
-                    "created_at": "2022-11-01T09:25:26-06:00",
-                    "updated_at": "2022-11-01T09:25:26-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38984273199346,
-                    "created_at": "2022-11-01T09:25:29-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-01T09:25:31-06:00",
-                    "product_id": 7817282060530,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_8cc0edb7-d514-478a-97e3-ff16c808fd22.heic?v=1667316331",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38984273363186,
-                    "created_at": "2022-11-01T09:25:30-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-01T09:25:33-06:00",
-                    "product_id": 7817282060530,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_c4402941-c5c4-4520-bafc-51b1152f9cdd.heic?v=1667316333",
                     "width": 3024,
                     "height": 3024
                 }
