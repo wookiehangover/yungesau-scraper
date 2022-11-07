@@ -139,7 +139,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1990</p>\n<p><strong>Size:\u00a0</strong>Large - 20\u201d x 27.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>flaw on back image as shown</p>",
             "published_at": "2022-11-06T08:34:02-07:00",
             "created_at": "2022-11-06T08:34:02-07:00",
-            "updated_at": "2022-11-06T09:43:37-07:00",
+            "updated_at": "2022-11-06T18:04:05-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -152,7 +152,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "115.00",
@@ -161,7 +161,7 @@
                     "position": 1,
                     "product_id": 7821786972402,
                     "created_at": "2022-11-06T08:34:02-07:00",
-                    "updated_at": "2022-11-06T09:43:37-07:00"
+                    "updated_at": "2022-11-06T18:04:05-07:00"
                 }
             ],
             "images": [
@@ -227,7 +227,7 @@
             "body_html": "<p>1990s</p>",
             "published_at": "2022-11-04T14:31:52-06:00",
             "created_at": "2022-11-04T14:31:52-06:00",
-            "updated_at": "2022-11-04T14:32:02-06:00",
+            "updated_at": "2022-11-06T18:04:24-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -240,7 +240,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "10.00",
@@ -249,7 +249,7 @@
                     "position": 1,
                     "product_id": 7821204553970,
                     "created_at": "2022-11-04T14:31:52-06:00",
-                    "updated_at": "2022-11-04T14:31:52-06:00"
+                    "updated_at": "2022-11-06T18:04:24-07:00"
                 }
             ],
             "images": [
@@ -304,7 +304,7 @@
             "body_html": "<p>1990s Snapback</p>",
             "published_at": "2022-11-04T14:31:03-06:00",
             "created_at": "2022-11-04T14:31:04-06:00",
-            "updated_at": "2022-11-04T14:31:14-06:00",
+            "updated_at": "2022-11-06T18:04:39-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -317,7 +317,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "10.00",
@@ -326,7 +326,7 @@
                     "position": 1,
                     "product_id": 7821203636466,
                     "created_at": "2022-11-04T14:31:04-06:00",
-                    "updated_at": "2022-11-04T14:31:04-06:00"
+                    "updated_at": "2022-11-06T18:04:39-07:00"
                 }
             ],
             "images": [
@@ -370,7 +370,7 @@
             "body_html": "<p>1990s Snapback</p>",
             "published_at": "2022-11-04T14:30:16-06:00",
             "created_at": "2022-11-04T14:30:16-06:00",
-            "updated_at": "2022-11-04T14:30:25-06:00",
+            "updated_at": "2022-11-06T18:04:31-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -383,7 +383,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "10.00",
@@ -392,7 +392,7 @@
                     "position": 1,
                     "product_id": 7821202817266,
                     "created_at": "2022-11-04T14:30:16-06:00",
-                    "updated_at": "2022-11-04T14:30:16-06:00"
+                    "updated_at": "2022-11-06T18:04:31-07:00"
                 }
             ],
             "images": [
@@ -447,7 +447,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1984</p>\n<p><strong>Size:\u00a0</strong>Medium - 19\u201d x 24.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>holes on shoulder a minor pinhole on front\u00a0</p>",
             "published_at": "2022-11-03T18:52:35-06:00",
             "created_at": "2022-11-03T10:43:33-06:00",
-            "updated_at": "2022-11-03T18:52:35-06:00",
+            "updated_at": "2022-11-06T18:15:57-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -460,16 +460,16 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "200.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7820520784114,
                     "created_at": "2022-11-03T10:43:33-06:00",
-                    "updated_at": "2022-11-03T18:52:35-06:00"
+                    "updated_at": "2022-11-06T18:10:16-07:00"
                 }
             ],
             "images": [
@@ -568,7 +568,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1994</p>\n<p><strong>Size: \u00a0</strong>XL - 23\u201d x 29.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws / if not deadstock - VNDS</p>",
             "published_at": "2022-11-02T09:51:46-06:00",
             "created_at": "2022-11-02T09:51:47-06:00",
-            "updated_at": "2022-11-02T09:52:15-06:00",
+            "updated_at": "2022-11-06T18:05:08-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -581,7 +581,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "200.00",
@@ -590,7 +590,7 @@
                     "position": 1,
                     "product_id": 7818129113330,
                     "created_at": "2022-11-02T09:51:47-06:00",
-                    "updated_at": "2022-11-02T09:51:47-06:00"
+                    "updated_at": "2022-11-06T18:05:08-07:00"
                 }
             ],
             "images": [
