@@ -79,12 +79,12 @@
         },
         {
             "id": 7823093498098,
-            "title": "Cosmic Charlie",
+            "title": "Cosmic Charlie and Vegas",
             "handle": "cosmic-charlie",
             "body_html": "<p><strong>Year:\u00a0</strong>1994</p>\n<p><strong>Size:\u00a0</strong>XXL - 24 x 30.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-11-08T09:03:04-07:00",
             "created_at": "2022-11-08T09:03:05-07:00",
-            "updated_at": "2022-11-08T09:05:55-07:00",
+            "updated_at": "2022-11-08T14:20:36-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -99,14 +99,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
-                    "price": "135.00",
+                    "available": false,
+                    "price": "285.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7823093498098,
                     "created_at": "2022-11-08T09:03:05-07:00",
-                    "updated_at": "2022-11-08T09:05:55-07:00"
+                    "updated_at": "2022-11-08T14:18:50-07:00"
                 }
             ],
             "images": [
@@ -175,6 +175,17 @@
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_326d0e4a-a889-4f20-ba29-f29c05a691e4.heic?v=1667923444",
                     "width": 3024,
                     "height": 3024
+                },
+                {
+                    "id": 39058676744434,
+                    "created_at": "2022-11-08T14:14:59-07:00",
+                    "position": 7,
+                    "updated_at": "2022-11-08T14:15:00-07:00",
+                    "product_id": 7823093498098,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ad8df389-593d-41cd-86dc-f3ffa2da0053.jpg?v=1667942100",
+                    "width": 1080,
+                    "height": 1081
                 }
             ],
             "options": [
