@@ -1401,7 +1401,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1994</p>\n<p><strong>Size: \u00a0</strong>XL - 23\u201d x 29.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws / if not deadstock - VNDS</p>",
             "published_at": "2022-11-02T09:51:46-06:00",
             "created_at": "2022-11-02T09:51:47-06:00",
-            "updated_at": "2022-11-06T18:05:08-07:00",
+            "updated_at": "2022-11-11T20:30:43-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1416,14 +1416,14 @@
                     "requires_shipping": true,
                     "taxable": false,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "200.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7818129113330,
                     "created_at": "2022-11-02T09:51:47-06:00",
-                    "updated_at": "2022-11-06T18:05:08-07:00"
+                    "updated_at": "2022-11-11T20:28:22-07:00"
                 }
             ],
             "images": [
