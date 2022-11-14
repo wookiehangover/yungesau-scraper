@@ -2,12 +2,12 @@
     "products": [
         {
             "id": 7826205802738,
-            "title": "For eske",
+            "title": "Ll rain",
             "handle": "for-eske",
-            "body_html": null,
+            "body_html": "",
             "published_at": "2022-11-14T09:34:42-07:00",
             "created_at": "2022-11-14T09:34:43-07:00",
-            "updated_at": "2022-11-14T09:34:55-07:00",
+            "updated_at": "2022-11-14T09:42:01-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -29,7 +29,7 @@
                     "position": 1,
                     "product_id": 7826205802738,
                     "created_at": "2022-11-14T09:34:43-07:00",
-                    "updated_at": "2022-11-14T09:34:43-07:00"
+                    "updated_at": "2022-11-14T09:42:01-07:00"
                 }
             ],
             "images": [
