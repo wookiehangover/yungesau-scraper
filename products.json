@@ -290,10 +290,10 @@
             "id": 7826161336562,
             "title": "For Jack bird",
             "handle": "for-jack-bird",
-            "body_html": null,
+            "body_html": "",
             "published_at": "2022-11-14T07:32:41-07:00",
             "created_at": "2022-11-14T07:32:42-07:00",
-            "updated_at": "2022-11-14T07:32:48-07:00",
+            "updated_at": "2022-11-14T16:23:21-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -309,13 +309,13 @@
                     "taxable": true,
                     "featured_image": null,
                     "available": true,
-                    "price": "135.00",
+                    "price": "125.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7826161336562,
                     "created_at": "2022-11-14T07:32:42-07:00",
-                    "updated_at": "2022-11-14T07:32:42-07:00"
+                    "updated_at": "2022-11-14T16:23:21-07:00"
                 }
             ],
             "images": [
