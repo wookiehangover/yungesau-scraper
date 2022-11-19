@@ -95,7 +95,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1983\u00a0</p>\n<p><strong>Size:\u00a0</strong>Slim Large - 20.5\u201d x 27\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-11-17T10:40:36-07:00",
             "created_at": "2022-11-17T10:40:37-07:00",
-            "updated_at": "2022-11-17T10:40:47-07:00",
+            "updated_at": "2022-11-18T18:42:25-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -108,7 +108,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "150.00",
@@ -117,7 +117,7 @@
                     "position": 1,
                     "product_id": 7828515455218,
                     "created_at": "2022-11-17T10:40:37-07:00",
-                    "updated_at": "2022-11-17T10:40:37-07:00"
+                    "updated_at": "2022-11-18T18:42:25-07:00"
                 }
             ],
             "images": [
@@ -281,7 +281,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1997</p>\n<p><strong>Size:\u00a0</strong>XL -\u00a023.5\u201d x 28.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>two Minor pin holes as shown\u00a0</p>",
             "published_at": "2022-11-10T11:27:38-07:00",
             "created_at": "2022-11-10T11:27:38-07:00",
-            "updated_at": "2022-11-10T11:28:04-07:00",
+            "updated_at": "2022-11-18T18:42:51-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -294,7 +294,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "125.00",
@@ -303,7 +303,7 @@
                     "position": 1,
                     "product_id": 7824150233330,
                     "created_at": "2022-11-10T11:27:39-07:00",
-                    "updated_at": "2022-11-10T11:27:39-07:00"
+                    "updated_at": "2022-11-18T18:42:50-07:00"
                 }
             ],
             "images": [
@@ -435,7 +435,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size</strong>: Large - 21\u201d x 29.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>deadstock</p>",
             "published_at": "2022-11-08T09:01:44-07:00",
             "created_at": "2022-11-08T09:01:44-07:00",
-            "updated_at": "2022-11-08T09:08:14-07:00",
+            "updated_at": "2022-11-18T18:43:15-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -448,7 +448,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "115.00",
@@ -457,7 +457,7 @@
                     "position": 1,
                     "product_id": 7823091204338,
                     "created_at": "2022-11-08T09:01:44-07:00",
-                    "updated_at": "2022-11-08T09:04:16-07:00"
+                    "updated_at": "2022-11-18T18:43:15-07:00"
                 }
             ],
             "images": [
