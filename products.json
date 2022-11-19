@@ -1,6 +1,72 @@
 {
     "products": [
         {
+            "id": 7829600600306,
+            "title": "Tweety and Fish",
+            "handle": "tweety-and-fish",
+            "body_html": null,
+            "published_at": "2022-11-19T10:48:27-07:00",
+            "created_at": "2022-11-19T10:48:27-07:00",
+            "updated_at": "2022-11-19T10:51:50-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43834398802162,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "75.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7829600600306,
+                    "created_at": "2022-11-19T10:48:28-07:00",
+                    "updated_at": "2022-11-19T10:51:50-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39140071768306,
+                    "created_at": "2022-11-19T10:48:30-07:00",
+                    "position": 1,
+                    "updated_at": "2022-11-19T10:48:31-07:00",
+                    "product_id": 7829600600306,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_55844314-2f4e-4607-98ed-197253c38dbc.jpg?v=1668880111",
+                    "width": 601,
+                    "height": 704
+                },
+                {
+                    "id": 39140071801074,
+                    "created_at": "2022-11-19T10:48:31-07:00",
+                    "position": 2,
+                    "updated_at": "2022-11-19T10:48:32-07:00",
+                    "product_id": 7829600600306,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_637fb17a-b3bf-4ac2-8476-fcef1513b2e7.jpg?v=1668880112",
+                    "width": 618,
+                    "height": 818
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7829496135922,
             "title": "For Caden",
             "handle": "for-caden",
@@ -2064,72 +2130,6 @@
                     "product_id": 7817283043570,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_99151254-0fb2-492b-aeed-e79228259113.heic?v=1667316444",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7817282912498,
-            "title": "Lovelight",
-            "handle": "lovelight",
-            "body_html": null,
-            "published_at": "2022-11-01T09:26:46-06:00",
-            "created_at": "2022-11-01T09:26:46-06:00",
-            "updated_at": "2022-11-01T09:26:54-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43795455901938,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7817282912498,
-                    "created_at": "2022-11-01T09:26:46-06:00",
-                    "updated_at": "2022-11-01T09:26:46-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38984285159666,
-                    "created_at": "2022-11-01T09:26:49-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-01T09:26:52-06:00",
-                    "product_id": 7817282912498,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_c90e832b-830c-4cc8-9027-79bafddbcdb1.heic?v=1667316412",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38984285356274,
-                    "created_at": "2022-11-01T09:26:50-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-01T09:26:53-06:00",
-                    "product_id": 7817282912498,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_cbe744e5-63d5-4332-b396-18019487e159.heic?v=1667316413",
                     "width": 3024,
                     "height": 3024
                 }
