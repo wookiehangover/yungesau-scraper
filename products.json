@@ -2,12 +2,12 @@
     "products": [
         {
             "id": 7837399548146,
-            "title": "For chase",
+            "title": "Owls",
             "handle": "for-chase",
-            "body_html": null,
+            "body_html": "",
             "published_at": "2022-11-26T14:45:55-07:00",
             "created_at": "2022-11-26T14:45:55-07:00",
-            "updated_at": "2022-11-26T14:46:04-07:00",
+            "updated_at": "2022-11-26T15:44:35-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -29,7 +29,7 @@
                     "position": 1,
                     "product_id": 7837399548146,
                     "created_at": "2022-11-26T14:45:55-07:00",
-                    "updated_at": "2022-11-26T14:45:55-07:00"
+                    "updated_at": "2022-11-26T15:44:34-07:00"
                 }
             ],
             "images": [
