@@ -1,6 +1,61 @@
 {
     "products": [
         {
+            "id": 7837399548146,
+            "title": "For chase",
+            "handle": "for-chase",
+            "body_html": null,
+            "published_at": "2022-11-26T14:45:55-07:00",
+            "created_at": "2022-11-26T14:45:55-07:00",
+            "updated_at": "2022-11-26T14:46:04-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43868235333874,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "25.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7837399548146,
+                    "created_at": "2022-11-26T14:45:55-07:00",
+                    "updated_at": "2022-11-26T14:45:55-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39191891575026,
+                    "created_at": "2022-11-26T14:45:58-07:00",
+                    "position": 1,
+                    "updated_at": "2022-11-26T14:45:59-07:00",
+                    "product_id": 7837399548146,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_28f2127f-8b8e-457f-86c1-529da9276cfb.jpg?v=1669499159",
+                    "width": 1125,
+                    "height": 1075
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7837389226226,
             "title": "Steadies Through the Years",
             "handle": "steadies-through-the-years",
@@ -128,7 +183,7 @@
             "body_html": "<p><span style=\"text-decoration: underline;\">iron on or sew it on!</span></p>\n<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>approx 2.5\u201d x 3.2\u201d</p>\n<p><strong>Condition:\u00a0</strong>deadstock</p>\n<p>free shipping\u00a0</p>",
             "published_at": "2022-11-25T14:09:51-07:00",
             "created_at": "2022-10-17T09:58:38-06:00",
-            "updated_at": "2022-11-26T14:41:03-07:00",
+            "updated_at": "2022-11-26T14:47:03-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -2461,72 +2516,6 @@
                     "product_id": 7817286549746,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ee71d8f8-af99-4bb7-9238-82bf85329f13.heic?v=1667316747",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7817286254834,
-            "title": "Baby Blue",
-            "handle": "baby-blue",
-            "body_html": null,
-            "published_at": "2022-11-01T09:31:55-06:00",
-            "created_at": "2022-11-01T09:31:55-06:00",
-            "updated_at": "2022-11-01T09:32:02-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43795465404658,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7817286254834,
-                    "created_at": "2022-11-01T09:31:55-06:00",
-                    "updated_at": "2022-11-01T09:31:55-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38984330805490,
-                    "created_at": "2022-11-01T09:31:58-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-01T09:32:00-06:00",
-                    "product_id": 7817286254834,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_bc8559cf-087d-4d02-aeac-dd09c8f81c06.heic?v=1667316720",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38984330969330,
-                    "created_at": "2022-11-01T09:31:59-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-01T09:32:01-06:00",
-                    "product_id": 7817286254834,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_08f80223-915a-43c2-a2e5-5a9e098a9ff4.heic?v=1667316721",
                     "width": 3024,
                     "height": 3024
                 }
