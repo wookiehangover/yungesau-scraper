@@ -2,12 +2,12 @@
     "products": [
         {
             "id": 7840179224818,
-            "title": "Pooh/Eyes of the World",
+            "title": "Pooh / Eyes of the World",
             "handle": "pooh-eyes-of-the-world",
-            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>XL -\u00a0</p>\n<p><strong>Condition:\u00a0</strong>some marks as shown</p>",
+            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>XL - 22\u201d x 29\u201d</p>\n<p><strong>Condition:\u00a0</strong>some marks as shown</p>",
             "published_at": "2022-11-30T08:08:57-07:00",
             "created_at": "2022-11-30T08:08:57-07:00",
-            "updated_at": "2022-11-30T08:09:07-07:00",
+            "updated_at": "2022-11-30T08:10:07-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -29,7 +29,7 @@
                     "position": 1,
                     "product_id": 7840179224818,
                     "created_at": "2022-11-30T08:08:57-07:00",
-                    "updated_at": "2022-11-30T08:08:57-07:00"
+                    "updated_at": "2022-11-30T08:10:06-07:00"
                 }
             ],
             "images": [
@@ -54,6 +54,50 @@
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_e0e2148c-c95b-443d-ad86-ae773ea09e1e.heic?v=1669820947",
                     "width": 2533,
                     "height": 2533
+                },
+                {
+                    "id": 39217039573234,
+                    "created_at": "2022-11-30T08:09:07-07:00",
+                    "position": 3,
+                    "updated_at": "2022-11-30T08:09:09-07:00",
+                    "product_id": 7840179224818,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_81a6106a-6a87-41c2-9bcb-2cc22dbee38c.heic?v=1669820949",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39217039868146,
+                    "created_at": "2022-11-30T08:09:09-07:00",
+                    "position": 4,
+                    "updated_at": "2022-11-30T08:09:11-07:00",
+                    "product_id": 7840179224818,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_5e2682be-55fa-4bef-ab67-f0b236a40f17.heic?v=1669820951",
+                    "width": 1966,
+                    "height": 1966
+                },
+                {
+                    "id": 39217040228594,
+                    "created_at": "2022-11-30T08:09:12-07:00",
+                    "position": 5,
+                    "updated_at": "2022-11-30T08:09:14-07:00",
+                    "product_id": 7840179224818,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_fe22fdd5-76d2-4154-9819-ec4174df4bd2.heic?v=1669820954",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39217040654578,
+                    "created_at": "2022-11-30T08:09:15-07:00",
+                    "position": 6,
+                    "updated_at": "2022-11-30T08:09:17-07:00",
+                    "product_id": 7840179224818,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_2fa35ee0-1d19-40cb-8767-0b36ca8bcb32.heic?v=1669820957",
+                    "width": 3024,
+                    "height": 3024
                 }
             ],
             "options": [
