@@ -1,6 +1,94 @@
 {
     "products": [
         {
+            "id": 7842211987698,
+            "title": "Jerry Garcia Band",
+            "handle": "jerry-garcia-band",
+            "body_html": "<p><strong>Year:\u00a0</strong>1994</p>\n<p><strong>Size:\u00a0</strong>Large - 20\u201d x 31\u201d</p>\n<p><strong>Condition:\u00a0</strong> no flaws</p>",
+            "published_at": "2022-12-05T10:19:29-07:00",
+            "created_at": "2022-12-05T10:19:29-07:00",
+            "updated_at": "2022-12-05T10:19:46-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43921206477042,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "140.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7842211987698,
+                    "created_at": "2022-12-05T10:19:29-07:00",
+                    "updated_at": "2022-12-05T10:19:29-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39250105336050,
+                    "created_at": "2022-12-05T10:19:35-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-05T10:19:38-07:00",
+                    "product_id": 7842211987698,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_dd623e18-c6ea-41a2-babd-1ac2ba4b5e2d.heic?v=1670260778",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39250105467122,
+                    "created_at": "2022-12-05T10:19:38-07:00",
+                    "position": 2,
+                    "updated_at": "2022-12-05T10:19:41-07:00",
+                    "product_id": 7842211987698,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_3a40e369-7560-4134-a40a-b389a616b287.heic?v=1670260781",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39250105565426,
+                    "created_at": "2022-12-05T10:19:41-07:00",
+                    "position": 3,
+                    "updated_at": "2022-12-05T10:19:44-07:00",
+                    "product_id": 7842211987698,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_51c10371-0d78-4808-89f2-19207cc9b1e5.heic?v=1670260784",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39250105663730,
+                    "created_at": "2022-12-05T10:19:44-07:00",
+                    "position": 4,
+                    "updated_at": "2022-12-05T10:19:46-07:00",
+                    "product_id": 7842211987698,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_377bc096-9eb0-42ee-9cff-327abfc2a9b9.heic?v=1670260786",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7842201862386,
             "title": "Twenty Years so Far",
             "handle": "twenty-years-so-far",
@@ -2571,72 +2659,6 @@
                     "product_id": 7817287663858,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ad8ce25c-f4b9-4d68-a5b1-8275e4282c04.heic?v=1667316879",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7817287401714,
-            "title": "Rudy",
-            "handle": "rudy",
-            "body_html": null,
-            "published_at": "2022-11-01T09:33:49-06:00",
-            "created_at": "2022-11-01T09:33:49-06:00",
-            "updated_at": "2022-11-03T15:05:51-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43795470123250,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "20.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7817287401714,
-                    "created_at": "2022-11-01T09:33:49-06:00",
-                    "updated_at": "2022-11-03T15:00:50-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38984346108146,
-                    "created_at": "2022-11-01T09:33:52-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-01T09:33:54-06:00",
-                    "product_id": 7817287401714,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_cd305862-ee98-4a24-a148-2f1925123c5b.heic?v=1667316834",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38984346271986,
-                    "created_at": "2022-11-01T09:33:53-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-01T09:33:55-06:00",
-                    "product_id": 7817287401714,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_679a067b-9e33-44be-bb20-4febe94c0354.heic?v=1667316835",
                     "width": 3024,
                     "height": 3024
                 }
