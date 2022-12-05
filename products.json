@@ -502,7 +502,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>XL - 23\u201d x 29.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-12-01T10:51:01-07:00",
             "created_at": "2022-12-01T10:51:02-07:00",
-            "updated_at": "2022-12-01T14:31:47-07:00",
+            "updated_at": "2022-12-04T17:01:16-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -517,14 +517,14 @@
                     "requires_shipping": true,
                     "taxable": false,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "100.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7840720978162,
                     "created_at": "2022-12-01T10:51:02-07:00",
-                    "updated_at": "2022-12-01T14:29:23-07:00"
+                    "updated_at": "2022-12-04T16:59:45-07:00"
                 }
             ],
             "images": [
