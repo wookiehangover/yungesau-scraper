@@ -1,6 +1,94 @@
 {
     "products": [
         {
+            "id": 7842355970290,
+            "title": "Jimmy for Zale",
+            "handle": "jimmy-for-zale",
+            "body_html": null,
+            "published_at": "2022-12-05T20:47:41-07:00",
+            "created_at": "2022-12-05T20:47:41-07:00",
+            "updated_at": "2022-12-05T20:50:17-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43922011717874,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "25.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7842355970290,
+                    "created_at": "2022-12-05T20:47:42-07:00",
+                    "updated_at": "2022-12-05T20:50:17-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39252219003122,
+                    "created_at": "2022-12-05T20:47:45-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-05T20:47:48-07:00",
+                    "product_id": 7842355970290,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9e14cc1d-6a84-4090-bc9b-1bf3444daaab.heic?v=1670298468",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39252219232498,
+                    "created_at": "2022-12-05T20:47:47-07:00",
+                    "position": 2,
+                    "updated_at": "2022-12-05T20:47:50-07:00",
+                    "product_id": 7842355970290,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_8866a410-26d5-4af7-8718-f7268f1f9936.heic?v=1670298470",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39252219494642,
+                    "created_at": "2022-12-05T20:47:50-07:00",
+                    "position": 3,
+                    "updated_at": "2022-12-05T20:47:53-07:00",
+                    "product_id": 7842355970290,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f4bd1c64-9ec9-46bd-bc4a-c9d1bae4b91d.heic?v=1670298473",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39252219625714,
+                    "created_at": "2022-12-05T20:47:51-07:00",
+                    "position": 4,
+                    "updated_at": "2022-12-05T20:47:54-07:00",
+                    "product_id": 7842355970290,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_c0bedeb0-d556-4b32-87c8-aa66ba4f6647.heic?v=1670298474",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7842289385714,
             "title": "For Garrett",
             "handle": "for-garrett",
@@ -2515,72 +2603,6 @@
                     "product_id": 7821204553970,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_452c107e-94d8-49b9-80cb-485b661bc863.heic?v=1667593922",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7821203636466,
-            "title": "Big Filters",
-            "handle": "big-filters",
-            "body_html": "<p>1990s Snapback</p>",
-            "published_at": "2022-11-04T14:31:03-06:00",
-            "created_at": "2022-11-04T14:31:04-06:00",
-            "updated_at": "2022-11-06T18:04:39-07:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43806285791474,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": false,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "10.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7821203636466,
-                    "created_at": "2022-11-04T14:31:04-06:00",
-                    "updated_at": "2022-11-06T18:04:39-07:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 39024394371314,
-                    "created_at": "2022-11-04T14:31:07-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-04T14:31:10-06:00",
-                    "product_id": 7821203636466,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9af71b5c-3769-4a62-b87b-0825bb76e022.heic?v=1667593870",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39024394666226,
-                    "created_at": "2022-11-04T14:31:09-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-04T14:31:11-06:00",
-                    "product_id": 7821203636466,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_0965d078-0158-43e5-8c60-10b7e008b188.heic?v=1667593871",
                     "width": 3024,
                     "height": 3024
                 }
