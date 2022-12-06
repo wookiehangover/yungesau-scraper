@@ -358,7 +358,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1985</p>\n<p><strong>Size:\u00a0</strong>XL - 23\u201d x 27\u201d</p>\n<p><strong>Condition:\u00a0</strong>minor underarm and collar yellowing\u00a0</p>",
             "published_at": "2022-12-05T09:24:02-07:00",
             "created_at": "2022-12-05T09:24:03-07:00",
-            "updated_at": "2022-12-05T09:24:26-07:00",
+            "updated_at": "2022-12-05T18:36:33-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -373,14 +373,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "125.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7842201862386,
                     "created_at": "2022-12-05T09:24:03-07:00",
-                    "updated_at": "2022-12-05T09:24:03-07:00"
+                    "updated_at": "2022-12-05T18:34:50-07:00"
                 }
             ],
             "images": [
