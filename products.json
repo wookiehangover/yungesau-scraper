@@ -1041,7 +1041,7 @@
             "body_html": "<p><span style=\"text-decoration: underline;\">iron on or sew it on!</span></p>\n<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>approx 2.5\u201d x 3.2\u201d</p>\n<p><strong>Condition:\u00a0</strong>deadstock</p>\n<p>free shipping\u00a0</p>",
             "published_at": "2022-11-25T14:09:51-07:00",
             "created_at": "2022-10-17T09:58:38-06:00",
-            "updated_at": "2022-11-27T15:32:52-07:00",
+            "updated_at": "2022-12-09T16:21:55-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1063,7 +1063,7 @@
                     "position": 1,
                     "product_id": 7808196444402,
                     "created_at": "2022-10-17T09:58:38-06:00",
-                    "updated_at": "2022-11-27T15:32:52-07:00"
+                    "updated_at": "2022-12-09T16:21:55-07:00"
                 }
             ],
             "images": [
@@ -2295,7 +2295,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1990</p>\n<p><strong>Size:\u00a0</strong>Large - 20\u201d x 27.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>flaw on back image as shown</p>",
             "published_at": "2022-11-06T08:34:02-07:00",
             "created_at": "2022-11-06T08:34:02-07:00",
-            "updated_at": "2022-11-06T18:04:05-07:00",
+            "updated_at": "2022-12-09T16:21:56-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -2310,14 +2310,14 @@
                     "requires_shipping": true,
                     "taxable": false,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "115.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7821786972402,
                     "created_at": "2022-11-06T08:34:02-07:00",
-                    "updated_at": "2022-11-06T18:04:05-07:00"
+                    "updated_at": "2022-12-09T16:21:56-07:00"
                 }
             ],
             "images": [
