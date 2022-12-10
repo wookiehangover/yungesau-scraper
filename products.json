@@ -1118,7 +1118,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1998</p>\n<p><strong>Size:\u00a0</strong>Large - 21\u201d x 31\u201d</p>",
             "published_at": "2022-11-23T18:00:07-07:00",
             "created_at": "2022-11-23T12:20:32-07:00",
-            "updated_at": "2022-11-23T18:00:07-07:00",
+            "updated_at": "2022-12-10T14:11:35-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1133,14 +1133,14 @@
                     "requires_shipping": true,
                     "taxable": false,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "65.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7834765951218,
                     "created_at": "2022-11-23T12:20:32-07:00",
-                    "updated_at": "2022-11-23T12:21:06-07:00"
+                    "updated_at": "2022-12-10T14:09:03-07:00"
                 }
             ],
             "images": [
