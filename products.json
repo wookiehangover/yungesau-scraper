@@ -1354,94 +1354,6 @@
             ]
         },
         {
-            "id": 7834578911474,
-            "title": "Astrology Wizard",
-            "handle": "astrology-wizard",
-            "body_html": "<p><strong>Year:\u00a0</strong>1996</p>\n<p><strong>Size:\u00a0</strong>XXL -\u00a024\u201d x 28\u201d</p>\n<p><strong>Condition:\u00a0</strong>minor flaw as shown</p>\n<p></p>",
-            "published_at": "2022-11-23T18:00:03-07:00",
-            "created_at": "2022-11-23T09:25:43-07:00",
-            "updated_at": "2022-11-23T18:00:03-07:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43846251643122,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": false,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "40.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7834578911474,
-                    "created_at": "2022-11-23T09:25:43-07:00",
-                    "updated_at": "2022-11-23T09:25:43-07:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 39165547872498,
-                    "created_at": "2022-11-23T09:25:47-07:00",
-                    "position": 1,
-                    "updated_at": "2022-11-23T09:25:49-07:00",
-                    "product_id": 7834578911474,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_e0bb9528-ebfb-49ce-9090-fa3e8a3fccfe.heic?v=1669220749",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39165548265714,
-                    "created_at": "2022-11-23T09:25:52-07:00",
-                    "position": 2,
-                    "updated_at": "2022-11-23T09:25:54-07:00",
-                    "product_id": 7834578911474,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f509668e-d211-448b-9bee-8b083b97916b.heic?v=1669220754",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39165548396786,
-                    "created_at": "2022-11-23T09:25:55-07:00",
-                    "position": 3,
-                    "updated_at": "2022-11-23T09:25:56-07:00",
-                    "product_id": 7834578911474,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_71658728-0614-438f-bb07-d5cf89056ef2.heic?v=1669220756",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39165548658930,
-                    "created_at": "2022-11-23T09:25:59-07:00",
-                    "position": 4,
-                    "updated_at": "2022-11-23T09:26:02-07:00",
-                    "product_id": 7834578911474,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_4e461f92-f666-407e-b316-43f47d5a6cc2.heic?v=1669220762",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 7834566525170,
             "title": "Stella Blue",
             "handle": "stella-blue",
@@ -2560,6 +2472,72 @@
                     "product_id": 7817287172338,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_b96c3372-b281-4f28-b9df-817c24a554b9.heic?v=1667316811",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7817286844658,
+            "title": "Candy Man",
+            "handle": "candy-man",
+            "body_html": null,
+            "published_at": "2022-11-01T09:32:55-06:00",
+            "created_at": "2022-11-01T09:32:55-06:00",
+            "updated_at": "2022-11-04T07:05:35-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43795466354930,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "15.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7817286844658,
+                    "created_at": "2022-11-01T09:32:55-06:00",
+                    "updated_at": "2022-11-04T07:00:27-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38984339849458,
+                    "created_at": "2022-11-01T09:32:58-06:00",
+                    "position": 1,
+                    "updated_at": "2022-11-01T09:33:00-06:00",
+                    "product_id": 7817286844658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_caa12ba1-149b-40bc-a456-5b24ac041d91.heic?v=1667316780",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38984339882226,
+                    "created_at": "2022-11-01T09:32:59-06:00",
+                    "position": 2,
+                    "updated_at": "2022-11-01T09:33:01-06:00",
+                    "product_id": 7817286844658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_59b4a5c7-f4fe-480d-a7c1-50d03976cff0.heic?v=1667316781",
                     "width": 3024,
                     "height": 3024
                 }
