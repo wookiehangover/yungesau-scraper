@@ -1,6 +1,61 @@
 {
     "products": [
         {
+            "id": 7847356924146,
+            "title": "Size XL - Earth Stealie",
+            "handle": "size-xl-earth-stealie",
+            "body_html": null,
+            "published_at": "2022-12-14T21:16:56-07:00",
+            "created_at": "2022-12-14T21:16:56-07:00",
+            "updated_at": "2022-12-14T21:17:05-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43978234036466,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": false,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "125.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7847356924146,
+                    "created_at": "2022-12-14T21:16:57-07:00",
+                    "updated_at": "2022-12-14T21:16:57-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39303693107442,
+                    "created_at": "2022-12-14T21:17:03-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-14T21:17:04-07:00",
+                    "product_id": 7847356924146,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_4a3b7c06-f340-4426-9dc1-85824ab97b30.jpg?v=1671077824",
+                    "width": 1125,
+                    "height": 1036
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7847307739378,
             "title": "For Nathan",
             "handle": "for-nathan",
@@ -2461,83 +2516,6 @@
                     "product_id": 7824150233330,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9c68ca1c-b0c8-43fe-8736-efe35be2e3fd.heic?v=1668104884",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7821204553970,
-            "title": "Silfies",
-            "handle": "silfies",
-            "body_html": "<p>1990s</p>",
-            "published_at": "2022-11-04T14:31:52-06:00",
-            "created_at": "2022-11-04T14:31:52-06:00",
-            "updated_at": "2022-11-06T18:04:24-07:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43806287397106,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": false,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "10.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7821204553970,
-                    "created_at": "2022-11-04T14:31:52-06:00",
-                    "updated_at": "2022-11-06T18:04:24-07:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 39024400138482,
-                    "created_at": "2022-11-04T14:31:56-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-04T14:31:58-06:00",
-                    "product_id": 7821204553970,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9eafb933-3056-4369-aaf6-15cca1009d6e.heic?v=1667593918",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39024400236786,
-                    "created_at": "2022-11-04T14:31:57-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-04T14:31:59-06:00",
-                    "product_id": 7821204553970,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_19601a84-4f1c-4c87-82b2-a54f8f4ff07f.heic?v=1667593919",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39024400564466,
-                    "created_at": "2022-11-04T14:31:59-06:00",
-                    "position": 3,
-                    "updated_at": "2022-11-04T14:32:02-06:00",
-                    "product_id": 7821204553970,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_452c107e-94d8-49b9-80cb-485b661bc863.heic?v=1667593922",
                     "width": 3024,
                     "height": 3024
                 }
