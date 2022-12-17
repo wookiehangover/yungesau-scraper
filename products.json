@@ -1,6 +1,83 @@
 {
     "products": [
         {
+            "id": 7848336589042,
+            "title": "Keep on Duckin\u2019",
+            "handle": "keep-on-duckin",
+            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>Medium - 19.5\u201d x 25.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>minor pin hole</p>",
+            "published_at": "2022-12-17T16:39:17-07:00",
+            "created_at": "2022-12-17T16:39:17-07:00",
+            "updated_at": "2022-12-17T16:39:31-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 44023819862258,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "55.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7848336589042,
+                    "created_at": "2022-12-17T16:39:17-07:00",
+                    "updated_at": "2022-12-17T16:39:17-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39319018799346,
+                    "created_at": "2022-12-17T16:39:25-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-17T16:39:27-07:00",
+                    "product_id": 7848336589042,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9402ecc6-8fe5-4888-b5be-d1bdce3548bd.png?v=1671320367",
+                    "width": 2512,
+                    "height": 2512
+                },
+                {
+                    "id": 39319018864882,
+                    "created_at": "2022-12-17T16:39:28-07:00",
+                    "position": 2,
+                    "updated_at": "2022-12-17T16:39:30-07:00",
+                    "product_id": 7848336589042,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ec599c4c-c900-4465-8af2-acadb2bd6bad.heic?v=1671320370",
+                    "width": 1685,
+                    "height": 1685
+                },
+                {
+                    "id": 39319018995954,
+                    "created_at": "2022-12-17T16:39:30-07:00",
+                    "position": 3,
+                    "updated_at": "2022-12-17T16:39:31-07:00",
+                    "product_id": 7848336589042,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f1de5255-8afa-41a1-85bb-33ed5c18c1d3.heic?v=1671320371",
+                    "width": 1599,
+                    "height": 1599
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7846760644850,
             "title": "Hagar the Horrible / Vikings MC",
             "handle": "hagar-the-horrible-vikings-mc",
@@ -2494,72 +2571,6 @@
                     "product_id": 7817285992690,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_72fb7ed5-3ebc-447a-bbda-42c9855af760.heic?v=1667316693",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7817285763314,
-            "title": "Pearly Baker",
-            "handle": "pearly-baker",
-            "body_html": null,
-            "published_at": "2022-11-01T09:31:03-06:00",
-            "created_at": "2022-11-01T09:31:03-06:00",
-            "updated_at": "2022-11-02T17:10:24-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43795464880370,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7817285763314,
-                    "created_at": "2022-11-01T09:31:03-06:00",
-                    "updated_at": "2022-11-02T17:05:26-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38984323727602,
-                    "created_at": "2022-11-01T09:31:06-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-01T09:31:08-06:00",
-                    "product_id": 7817285763314,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9338ef3e-ee89-4737-b879-942246ce1ba7.heic?v=1667316668",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38984324022514,
-                    "created_at": "2022-11-01T09:31:07-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-01T09:31:09-06:00",
-                    "product_id": 7817285763314,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_7acb9c50-88b4-42e1-bfe8-828310566291.heic?v=1667316669",
                     "width": 3024,
                     "height": 3024
                 }
