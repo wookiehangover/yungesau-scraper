@@ -1514,7 +1514,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>Large - 19.5\u201d x 27\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-11-23T18:00:02-07:00",
             "created_at": "2022-11-23T09:11:26-07:00",
-            "updated_at": "2022-11-23T18:00:02-07:00",
+            "updated_at": "2022-12-18T12:50:56-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1536,29 +1536,29 @@
                     "position": 1,
                     "product_id": 7834566525170,
                     "created_at": "2022-11-23T09:11:26-07:00",
-                    "updated_at": "2022-11-23T09:11:26-07:00"
+                    "updated_at": "2022-12-18T12:50:28-07:00"
                 }
             ],
             "images": [
                 {
-                    "id": 39165479289074,
-                    "created_at": "2022-11-23T09:11:31-07:00",
+                    "id": 39322367066354,
+                    "created_at": "2022-12-18T12:50:33-07:00",
                     "position": 1,
-                    "updated_at": "2022-11-23T09:11:32-07:00",
+                    "updated_at": "2022-12-18T12:50:45-07:00",
                     "product_id": 7834566525170,
                     "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_6f6733a9-55a3-4d32-bde9-57c6ce04efc6.heic?v=1669219892",
-                    "width": 3024,
-                    "height": 3024
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_95b7050b-6e3f-4205-8605-581dadf5c485.jpg?v=1671393045",
+                    "width": 1284,
+                    "height": 1285
                 },
                 {
                     "id": 39165479518450,
                     "created_at": "2022-11-23T09:11:33-07:00",
                     "position": 2,
-                    "updated_at": "2022-11-23T09:11:35-07:00",
+                    "updated_at": "2022-12-18T12:50:45-07:00",
                     "product_id": 7834566525170,
                     "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ea1ff4a5-0f83-440a-8724-1b1a8cb8511f.heic?v=1669219895",
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_ea1ff4a5-0f83-440a-8724-1b1a8cb8511f.heic?v=1671393045",
                     "width": 3024,
                     "height": 3024
                 },
@@ -1566,10 +1566,10 @@
                     "id": 39165479616754,
                     "created_at": "2022-11-23T09:11:35-07:00",
                     "position": 3,
-                    "updated_at": "2022-11-23T09:11:37-07:00",
+                    "updated_at": "2022-12-18T12:50:45-07:00",
                     "product_id": 7834566525170,
                     "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_127fdb74-06ba-49cb-bfa9-9fafef619543.heic?v=1669219897",
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_127fdb74-06ba-49cb-bfa9-9fafef619543.heic?v=1671393045",
                     "width": 3024,
                     "height": 3024
                 }
