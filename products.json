@@ -1,61 +1,6 @@
 {
     "products": [
         {
-            "id": 7848340685042,
-            "title": "For Aaron",
-            "handle": "for-aaron",
-            "body_html": null,
-            "published_at": "2022-12-17T17:17:34-07:00",
-            "created_at": "2022-12-17T17:17:34-07:00",
-            "updated_at": "2022-12-17T17:20:39-07:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 44024254857458,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "31.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7848340685042,
-                    "created_at": "2022-12-17T17:17:34-07:00",
-                    "updated_at": "2022-12-17T17:19:09-07:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 39319126474994,
-                    "created_at": "2022-12-17T17:17:39-07:00",
-                    "position": 1,
-                    "updated_at": "2022-12-17T17:17:40-07:00",
-                    "product_id": 7848340685042,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_affb89a8-bb2b-4762-b84f-9de68912cf23.jpg?v=1671322660",
-                    "width": 1284,
-                    "height": 1927
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 7848336589042,
             "title": "Keep on Duckin\u2019",
             "handle": "keep-on-duckin",
@@ -2560,6 +2505,72 @@
                     "product_id": 7817286254834,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_08f80223-915a-43c2-a2e5-5a9e098a9ff4.heic?v=1667316721",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7817285992690,
+            "title": "Dark Hollow",
+            "handle": "dark-hollow",
+            "body_html": null,
+            "published_at": "2022-11-01T09:31:26-06:00",
+            "created_at": "2022-11-01T09:31:26-06:00",
+            "updated_at": "2022-11-01T09:31:33-06:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 43795465175282,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "15.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7817285992690,
+                    "created_at": "2022-11-01T09:31:26-06:00",
+                    "updated_at": "2022-11-01T09:31:26-06:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 38984327856370,
+                    "created_at": "2022-11-01T09:31:30-06:00",
+                    "position": 1,
+                    "updated_at": "2022-11-01T09:31:32-06:00",
+                    "product_id": 7817285992690,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a0ccada3-e6c3-4ac3-875e-559adcfe9a89.heic?v=1667316692",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 38984328020210,
+                    "created_at": "2022-11-01T09:31:31-06:00",
+                    "position": 2,
+                    "updated_at": "2022-11-01T09:31:33-06:00",
+                    "product_id": 7817285992690,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_72fb7ed5-3ebc-447a-bbda-42c9855af760.heic?v=1667316693",
                     "width": 3024,
                     "height": 3024
                 }
