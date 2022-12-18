@@ -7,7 +7,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size:\u00a0</strong>XL - 22.5\u201d x 28.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>some marks as shown</p>",
             "published_at": "2022-12-18T10:15:18-07:00",
             "created_at": "2022-12-18T10:15:19-07:00",
-            "updated_at": "2022-12-18T10:16:23-07:00",
+            "updated_at": "2022-12-18T10:29:39-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -20,7 +20,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "140.00",
@@ -29,7 +29,7 @@
                     "position": 1,
                     "product_id": 7848465596658,
                     "created_at": "2022-12-18T10:15:19-07:00",
-                    "updated_at": "2022-12-18T10:16:22-07:00"
+                    "updated_at": "2022-12-18T10:29:39-07:00"
                 }
             ],
             "images": [
@@ -128,7 +128,7 @@
             "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size:\u00a0</strong>XL - 22\u201d x 29\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-12-18T09:46:50-07:00",
             "created_at": "2022-12-18T09:46:50-07:00",
-            "updated_at": "2022-12-18T10:16:02-07:00",
+            "updated_at": "2022-12-18T10:31:23-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -141,7 +141,7 @@
                     "option3": null,
                     "sku": null,
                     "requires_shipping": true,
-                    "taxable": true,
+                    "taxable": false,
                     "featured_image": null,
                     "available": true,
                     "price": "100.00",
@@ -150,7 +150,7 @@
                     "position": 1,
                     "product_id": 7848461107442,
                     "created_at": "2022-12-18T09:46:50-07:00",
-                    "updated_at": "2022-12-18T10:11:37-07:00"
+                    "updated_at": "2022-12-18T10:29:24-07:00"
                 }
             ],
             "images": [
