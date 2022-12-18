@@ -1,13 +1,134 @@
 {
     "products": [
         {
+            "id": 7848465596658,
+            "title": "Summer Tour 95",
+            "handle": "summer-tour-97",
+            "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size:\u00a0</strong>XL - 22.5\u201d x 28.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>some marks as shown</p>",
+            "published_at": "2022-12-18T10:15:18-07:00",
+            "created_at": "2022-12-18T10:15:19-07:00",
+            "updated_at": "2022-12-18T10:16:23-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 44035095363826,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "140.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7848465596658,
+                    "created_at": "2022-12-18T10:15:19-07:00",
+                    "updated_at": "2022-12-18T10:16:22-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39321860931826,
+                    "created_at": "2022-12-18T10:15:24-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-18T10:15:25-07:00",
+                    "product_id": 7848465596658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_50334c85-cd77-4ebe-a697-839dff78e3e7.heic?v=1671383725",
+                    "width": 2956,
+                    "height": 2956
+                },
+                {
+                    "id": 39321861161202,
+                    "created_at": "2022-12-18T10:15:28-07:00",
+                    "position": 2,
+                    "updated_at": "2022-12-18T10:15:30-07:00",
+                    "product_id": 7848465596658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_be941ba8-6711-494b-a90d-56dcf8ceb146.heic?v=1671383730",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39321861325042,
+                    "created_at": "2022-12-18T10:15:30-07:00",
+                    "position": 3,
+                    "updated_at": "2022-12-18T10:15:32-07:00",
+                    "product_id": 7848465596658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_c7e43848-6877-45ac-9781-f4051f313637.heic?v=1671383732",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39321861456114,
+                    "created_at": "2022-12-18T10:15:34-07:00",
+                    "position": 4,
+                    "updated_at": "2022-12-18T10:15:35-07:00",
+                    "product_id": 7848465596658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_f6caa7e1-e6c0-43da-aba7-3933e023f882.heic?v=1671383735",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39321861587186,
+                    "created_at": "2022-12-18T10:15:37-07:00",
+                    "position": 5,
+                    "updated_at": "2022-12-18T10:15:39-07:00",
+                    "product_id": 7848465596658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9b076be3-8bf6-4215-b0f5-f60a2b966876.heic?v=1671383739",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39321861751026,
+                    "created_at": "2022-12-18T10:15:40-07:00",
+                    "position": 6,
+                    "updated_at": "2022-12-18T10:15:42-07:00",
+                    "product_id": 7848465596658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_b549a507-9da0-4998-8ec0-c6850409f50f.heic?v=1671383742",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39321861980402,
+                    "created_at": "2022-12-18T10:15:44-07:00",
+                    "position": 7,
+                    "updated_at": "2022-12-18T10:15:45-07:00",
+                    "product_id": 7848465596658,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_465286c5-e3ed-4f2f-9991-d0794d680db7.heic?v=1671383745",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7848461107442,
             "title": "Beartha / Summer Tour",
             "handle": "beartha-summer-tour",
-            "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size:\u00a0</strong>XL - 22.5\u201d x 28\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
+            "body_html": "<p><strong>Year:\u00a0</strong>1995</p>\n<p><strong>Size:\u00a0</strong>XL - 22\u201d x 29\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
             "published_at": "2022-12-18T09:46:50-07:00",
             "created_at": "2022-12-18T09:46:50-07:00",
-            "updated_at": "2022-12-18T09:49:26-07:00",
+            "updated_at": "2022-12-18T10:16:02-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -29,7 +150,7 @@
                     "position": 1,
                     "product_id": 7848461107442,
                     "created_at": "2022-12-18T09:46:50-07:00",
-                    "updated_at": "2022-12-18T09:46:50-07:00"
+                    "updated_at": "2022-12-18T10:11:37-07:00"
                 }
             ],
             "images": [
@@ -2494,72 +2615,6 @@
                     "product_id": 7817285992690,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_72fb7ed5-3ebc-447a-bbda-42c9855af760.heic?v=1667316693",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7817285763314,
-            "title": "Pearly Baker",
-            "handle": "pearly-baker",
-            "body_html": null,
-            "published_at": "2022-11-01T09:31:03-06:00",
-            "created_at": "2022-11-01T09:31:03-06:00",
-            "updated_at": "2022-11-02T17:10:24-06:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43795464880370,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7817285763314,
-                    "created_at": "2022-11-01T09:31:03-06:00",
-                    "updated_at": "2022-11-02T17:05:26-06:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 38984323727602,
-                    "created_at": "2022-11-01T09:31:06-06:00",
-                    "position": 1,
-                    "updated_at": "2022-11-01T09:31:08-06:00",
-                    "product_id": 7817285763314,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_9338ef3e-ee89-4737-b879-942246ce1ba7.heic?v=1667316668",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 38984324022514,
-                    "created_at": "2022-11-01T09:31:07-06:00",
-                    "position": 2,
-                    "updated_at": "2022-11-01T09:31:09-06:00",
-                    "product_id": 7817285763314,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_7acb9c50-88b4-42e1-bfe8-828310566291.heic?v=1667316669",
                     "width": 3024,
                     "height": 3024
                 }
