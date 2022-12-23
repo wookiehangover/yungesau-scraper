@@ -117,7 +117,7 @@
             "body_html": null,
             "published_at": "2022-12-22T11:49:31-07:00",
             "created_at": "2022-12-22T11:49:31-07:00",
-            "updated_at": "2022-12-22T11:49:37-07:00",
+            "updated_at": "2022-12-22T18:05:40-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -132,14 +132,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "30.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7850544398578,
                     "created_at": "2022-12-22T11:49:31-07:00",
-                    "updated_at": "2022-12-22T11:49:31-07:00"
+                    "updated_at": "2022-12-22T18:04:10-07:00"
                 }
             ],
             "images": [
@@ -183,7 +183,7 @@
             "body_html": null,
             "published_at": "2022-12-22T11:49:03-07:00",
             "created_at": "2022-12-22T11:49:03-07:00",
-            "updated_at": "2022-12-22T11:49:08-07:00",
+            "updated_at": "2022-12-22T18:05:40-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -198,14 +198,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "30.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7850544136434,
                     "created_at": "2022-12-22T11:49:03-07:00",
-                    "updated_at": "2022-12-22T11:49:03-07:00"
+                    "updated_at": "2022-12-22T18:04:10-07:00"
                 }
             ],
             "images": [
@@ -1041,7 +1041,7 @@
             "body_html": null,
             "published_at": "2022-12-22T11:41:14-07:00",
             "created_at": "2022-12-22T11:41:14-07:00",
-            "updated_at": "2022-12-22T11:41:20-07:00",
+            "updated_at": "2022-12-22T18:05:40-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1056,14 +1056,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "15.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7850542170354,
                     "created_at": "2022-12-22T11:41:14-07:00",
-                    "updated_at": "2022-12-22T11:41:14-07:00"
+                    "updated_at": "2022-12-22T18:04:11-07:00"
                 }
             ],
             "images": [
@@ -1107,7 +1107,7 @@
             "body_html": "<p>Limited edition</p>",
             "published_at": "2022-12-22T11:40:34-07:00",
             "created_at": "2022-12-22T11:40:34-07:00",
-            "updated_at": "2022-12-22T11:40:40-07:00",
+            "updated_at": "2022-12-22T18:15:51-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1122,14 +1122,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "20.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7850542006514,
                     "created_at": "2022-12-22T11:40:34-07:00",
-                    "updated_at": "2022-12-22T11:40:34-07:00"
+                    "updated_at": "2022-12-22T18:10:46-07:00"
                 }
             ],
             "images": [
