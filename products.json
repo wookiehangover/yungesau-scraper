@@ -7,7 +7,7 @@
             "body_html": "<p>RARE Stanley Mouse Sculpture!</p>\n<p><strong>Year:\u00a0</strong>1998</p>\n<p><strong>Size:\u00a0</strong>sculpture is approx 14\u201d x 12\u201d / box is 17\u201d x 14.5\u201d x 8\u201d</p>\n<p><strong>Condition:\u00a0</strong>box has some wear but overall good condition. Sculpture has a flaw as shown in the pictures\u00a0</p>",
             "published_at": "2022-12-26T08:05:10-07:00",
             "created_at": "2022-12-26T08:05:10-07:00",
-            "updated_at": "2022-12-26T08:05:47-07:00",
+            "updated_at": "2022-12-26T08:25:47-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -23,13 +23,13 @@
                     "taxable": true,
                     "featured_image": null,
                     "available": true,
-                    "price": "225.00",
+                    "price": "200.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7851716477170,
                     "created_at": "2022-12-26T08:05:10-07:00",
-                    "updated_at": "2022-12-26T08:05:21-07:00"
+                    "updated_at": "2022-12-26T08:25:47-07:00"
                 }
             ],
             "images": [
@@ -96,28 +96,6 @@
                     "product_id": 7851716477170,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_294f90d9-7d1e-41b4-ae71-96de6a9bdf70.heic?v=1672067139",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39365705269490,
-                    "created_at": "2022-12-26T08:05:40-07:00",
-                    "position": 7,
-                    "updated_at": "2022-12-26T08:05:42-07:00",
-                    "product_id": 7851716477170,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_59219d99-815a-4223-8c59-e95607ab9cb5.heic?v=1672067142",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39365705924850,
-                    "created_at": "2022-12-26T08:05:45-07:00",
-                    "position": 8,
-                    "updated_at": "2022-12-26T08:05:47-07:00",
-                    "product_id": 7851716477170,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_de64e207-a78e-4194-befc-8e49b050da77.heic?v=1672067147",
                     "width": 3024,
                     "height": 3024
                 }
