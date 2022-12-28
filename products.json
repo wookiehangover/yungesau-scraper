@@ -1,6 +1,127 @@
 {
     "products": [
         {
+            "id": 7853318242546,
+            "title": "The Dead / Hey Now",
+            "handle": "the-dead-hey-now",
+            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>Slim L - 19.5\u201d x 29\u201d</p>\n<p><strong>Condition:\u00a0</strong>some minor storage marks as shown</p>",
+            "published_at": "2022-12-28T16:40:31-07:00",
+            "created_at": "2022-12-28T16:40:31-07:00",
+            "updated_at": "2022-12-28T16:43:05-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 44203295932658,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "85.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7853318242546,
+                    "created_at": "2022-12-28T16:40:31-07:00",
+                    "updated_at": "2022-12-28T16:42:29-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39381897576690,
+                    "created_at": "2022-12-28T16:40:39-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-28T16:43:05-07:00",
+                    "product_id": 7853318242546,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_e6d2e4c1-0368-4b18-a92d-50251822591b.heic?v=1672270985",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39381897838834,
+                    "created_at": "2022-12-28T16:40:42-07:00",
+                    "position": 2,
+                    "updated_at": "2022-12-28T16:43:05-07:00",
+                    "product_id": 7853318242546,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_13cf7420-3243-4262-a5ce-c0cdb7eb4c92.heic?v=1672270985",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39381897445618,
+                    "created_at": "2022-12-28T16:40:36-07:00",
+                    "position": 3,
+                    "updated_at": "2022-12-28T16:43:05-07:00",
+                    "product_id": 7853318242546,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_3f1c5036-b2b5-4b23-bb56-2527727a4c00.heic?v=1672270985",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39381905670386,
+                    "created_at": "2022-12-28T16:42:37-07:00",
+                    "position": 4,
+                    "updated_at": "2022-12-28T16:43:05-07:00",
+                    "product_id": 7853318242546,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_fcb7e60a-e5fe-43a5-8abb-dca84c1a9130.heic?v=1672270985",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39381906522354,
+                    "created_at": "2022-12-28T16:42:44-07:00",
+                    "position": 5,
+                    "updated_at": "2022-12-28T16:43:05-07:00",
+                    "product_id": 7853318242546,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_cb0b2314-c722-4182-9fb4-289110cd8a9f.heic?v=1672270985",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39381906063602,
+                    "created_at": "2022-12-28T16:42:41-07:00",
+                    "position": 6,
+                    "updated_at": "2022-12-28T16:43:02-07:00",
+                    "product_id": 7853318242546,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_26bace6c-a683-4055-9c22-55f8b679a05b.heic?v=1672270982",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39381906817266,
+                    "created_at": "2022-12-28T16:42:47-07:00",
+                    "position": 7,
+                    "updated_at": "2022-12-28T16:42:50-07:00",
+                    "product_id": 7853318242546,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a85a25f7-ed05-4958-a890-42c4e38e6c36.heic?v=1672270970",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7853285900530,
             "title": "Corduroy Bucket Hat (brown)",
             "handle": "corduroy-bucket-hat-1",
@@ -73,7 +194,7 @@
             "body_html": "<p>new with tag</p>\n<p>57cm-59cm</p>",
             "published_at": "2022-12-28T15:59:09-07:00",
             "created_at": "2022-12-28T15:59:09-07:00",
-            "updated_at": "2022-12-28T16:05:53-07:00",
+            "updated_at": "2022-12-28T16:43:12-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -88,14 +209,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "75.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7853285572850,
                     "created_at": "2022-12-28T15:59:09-07:00",
-                    "updated_at": "2022-12-28T16:01:46-07:00"
+                    "updated_at": "2022-12-28T16:43:12-07:00"
                 }
             ],
             "images": [
@@ -2164,83 +2285,6 @@
                     "product_id": 7841888895218,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_3a1aae3c-9460-46c2-a94b-8432f11e0a62.heic?v=1670171841",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7841555775730,
-            "title": "Psycle Sam",
-            "handle": "psycle-sam",
-            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>Large - 21.5\u201d x 27\u201d</p>\n<p><strong>Condition:\u00a0</strong>minor crack in printing as shown\u00a0</p>",
-            "published_at": "2022-12-03T09:03:18-07:00",
-            "created_at": "2022-12-03T09:03:18-07:00",
-            "updated_at": "2022-12-24T11:19:49-07:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 43915523358962,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": false,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "200.00",
-                    "grams": 0,
-                    "compare_at_price": "225.00",
-                    "position": 1,
-                    "product_id": 7841555775730,
-                    "created_at": "2022-12-03T09:03:18-07:00",
-                    "updated_at": "2022-12-24T11:19:48-07:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 39239245037810,
-                    "created_at": "2022-12-03T09:03:23-07:00",
-                    "position": 1,
-                    "updated_at": "2022-12-03T09:03:25-07:00",
-                    "product_id": 7841555775730,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_a124b611-8a6f-4253-a680-b1d22bac5ba7.heic?v=1670083405",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39239249035506,
-                    "created_at": "2022-12-03T09:04:19-07:00",
-                    "position": 2,
-                    "updated_at": "2022-12-03T09:04:25-07:00",
-                    "product_id": 7841555775730,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_98619e66-c834-41bd-8075-c340b42fcbf1.heic?v=1670083465",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39239248904434,
-                    "created_at": "2022-12-03T09:04:19-07:00",
-                    "position": 3,
-                    "updated_at": "2022-12-03T09:04:21-07:00",
-                    "product_id": 7841555775730,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_686108e8-b23a-4d11-bc09-688e6c5d51d5.heic?v=1670083461",
                     "width": 3024,
                     "height": 3024
                 }
