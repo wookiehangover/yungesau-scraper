@@ -73,7 +73,7 @@
             "body_html": null,
             "published_at": "2022-12-29T08:45:45-07:00",
             "created_at": "2022-12-29T08:45:45-07:00",
-            "updated_at": "2022-12-29T08:45:56-07:00",
+            "updated_at": "2022-12-29T09:15:56-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -88,14 +88,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "15.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7853993066738,
                     "created_at": "2022-12-29T08:45:45-07:00",
-                    "updated_at": "2022-12-29T08:45:45-07:00"
+                    "updated_at": "2022-12-29T09:15:56-07:00"
                 }
             ],
             "images": [
@@ -271,7 +271,7 @@
             "body_html": null,
             "published_at": "2022-12-29T08:44:03-07:00",
             "created_at": "2022-12-29T08:44:03-07:00",
-            "updated_at": "2022-12-29T08:44:17-07:00",
+            "updated_at": "2022-12-29T09:15:56-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -286,14 +286,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "15.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7853992771826,
                     "created_at": "2022-12-29T08:44:03-07:00",
-                    "updated_at": "2022-12-29T08:44:03-07:00"
+                    "updated_at": "2022-12-29T09:15:56-07:00"
                 }
             ],
             "images": [
