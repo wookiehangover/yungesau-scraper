@@ -1,6 +1,171 @@
 {
     "products": [
         {
+            "id": 7854009581810,
+            "title": "Dancing Bear Sweater",
+            "handle": "dancing-bear-sweater",
+            "body_html": "<p><strong>Year:\u00a0</strong>1990s</p>\n<p><strong>Size:\u00a0</strong>medium - 21.5\u201d x 26.5\u201d</p>\n<p><strong>Condition:\u00a0</strong>no flaws</p>",
+            "published_at": "2022-12-29T09:39:25-07:00",
+            "created_at": "2022-12-29T09:39:25-07:00",
+            "updated_at": "2022-12-29T09:39:46-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 44212192837874,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "200.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7854009581810,
+                    "created_at": "2022-12-29T09:39:25-07:00",
+                    "updated_at": "2022-12-29T09:39:25-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39388461629682,
+                    "created_at": "2022-12-29T09:39:30-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-29T09:39:33-07:00",
+                    "product_id": 7854009581810,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_448acbb2-b076-41ca-afc9-5e51e8aa2c85.heic?v=1672331973",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39388461957362,
+                    "created_at": "2022-12-29T09:39:34-07:00",
+                    "position": 2,
+                    "updated_at": "2022-12-29T09:39:37-07:00",
+                    "product_id": 7854009581810,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_961df224-6ae4-431b-8950-1844668d2836.heic?v=1672331977",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39388463661298,
+                    "created_at": "2022-12-29T09:39:39-07:00",
+                    "position": 3,
+                    "updated_at": "2022-12-29T09:39:41-07:00",
+                    "product_id": 7854009581810,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_04cb6372-a705-4f96-af2e-359f3507ff7c.heic?v=1672331981",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39388464709874,
+                    "created_at": "2022-12-29T09:39:43-07:00",
+                    "position": 4,
+                    "updated_at": "2022-12-29T09:39:45-07:00",
+                    "product_id": 7854009581810,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_3baccb73-1ed7-4c4e-a0db-bda04c8fe712.heic?v=1672331985",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7854008369394,
+            "title": "Keep on Boopin\u2019",
+            "handle": "keep-on-boopin",
+            "body_html": "<p><strong>Year:\u00a0</strong>1993</p>\n<p><strong>Size:</strong> medium - 20\u201d x 29\u201d</p>\n<p><strong>Condition:\u00a0</strong>deadstock</p>",
+            "published_at": "2022-12-29T09:33:57-07:00",
+            "created_at": "2022-12-29T09:33:57-07:00",
+            "updated_at": "2022-12-29T09:34:34-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 44212189790450,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": true,
+                    "price": "115.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7854008369394,
+                    "created_at": "2022-12-29T09:33:57-07:00",
+                    "updated_at": "2022-12-29T09:34:34-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39388409364722,
+                    "created_at": "2022-12-29T09:34:02-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-29T09:34:04-07:00",
+                    "product_id": 7854008369394,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_1608c20e-e9c4-431a-be2e-c0a33f193179.heic?v=1672331644",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39388409823474,
+                    "created_at": "2022-12-29T09:34:06-07:00",
+                    "position": 2,
+                    "updated_at": "2022-12-29T09:34:08-07:00",
+                    "product_id": 7854008369394,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_64b24738-6fd8-442e-b6b8-8b70ba2c14d1.heic?v=1672331648",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39388410347762,
+                    "created_at": "2022-12-29T09:34:09-07:00",
+                    "position": 3,
+                    "updated_at": "2022-12-29T09:34:11-07:00",
+                    "product_id": 7854008369394,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_2a0ed5b6-71af-4d9e-a186-7cddcc18f47e.heic?v=1672331651",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
             "id": 7853993263346,
             "title": "Eyes of the World",
             "handle": "eyes-of-the-world",
@@ -1823,138 +1988,6 @@
                     "product_id": 7853989134578,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_d203bb55-fa2d-4a7c-a59b-a69b95e33d71.heic?v=1672327783",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7853989036274,
-            "title": "Mane Man",
-            "handle": "mane-man",
-            "body_html": null,
-            "published_at": "2022-12-29T08:28:50-07:00",
-            "created_at": "2022-12-29T08:28:50-07:00",
-            "updated_at": "2022-12-29T08:29:02-07:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 44211254821106,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "15.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7853989036274,
-                    "created_at": "2022-12-29T08:28:50-07:00",
-                    "updated_at": "2022-12-29T08:28:50-07:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 39387907588338,
-                    "created_at": "2022-12-29T08:28:55-07:00",
-                    "position": 1,
-                    "updated_at": "2022-12-29T08:28:57-07:00",
-                    "product_id": 7853989036274,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_95a0031b-c1bb-49ff-bc0d-7ccd85481b9c.heic?v=1672327737",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39387908079858,
-                    "created_at": "2022-12-29T08:28:59-07:00",
-                    "position": 2,
-                    "updated_at": "2022-12-29T08:29:02-07:00",
-                    "product_id": 7853989036274,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_61fe9af8-4d4a-4d7d-b0a3-ce41cab1578f.heic?v=1672327742",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 7853988970738,
-            "title": "Peggy-O (retro)",
-            "handle": "peggy-o-retro",
-            "body_html": null,
-            "published_at": "2022-12-29T08:28:21-07:00",
-            "created_at": "2022-12-29T08:28:21-07:00",
-            "updated_at": "2022-12-29T08:28:34-07:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 44211239616754,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": true,
-                    "price": "10.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7853988970738,
-                    "created_at": "2022-12-29T08:28:21-07:00",
-                    "updated_at": "2022-12-29T08:28:21-07:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 39387905523954,
-                    "created_at": "2022-12-29T08:28:28-07:00",
-                    "position": 1,
-                    "updated_at": "2022-12-29T08:28:30-07:00",
-                    "product_id": 7853988970738,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_e1e6a432-f0e2-48f2-8ebc-896c9f9e2d7e.heic?v=1672327710",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39387905622258,
-                    "created_at": "2022-12-29T08:28:32-07:00",
-                    "position": 2,
-                    "updated_at": "2022-12-29T08:28:34-07:00",
-                    "product_id": 7853988970738,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_1d2754e5-9377-49cb-a692-feab3b3c5379.heic?v=1672327714",
                     "width": 3024,
                     "height": 3024
                 }
