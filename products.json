@@ -1679,7 +1679,7 @@
             "body_html": null,
             "published_at": "2022-12-29T08:27:44-07:00",
             "created_at": "2022-12-29T08:27:44-07:00",
-            "updated_at": "2022-12-29T08:27:54-07:00",
+            "updated_at": "2022-12-30T07:20:26-07:00",
             "vendor": "Yung Esau's Vintage Dead",
             "product_type": "",
             "tags": [],
@@ -1694,14 +1694,14 @@
                     "requires_shipping": true,
                     "taxable": true,
                     "featured_image": null,
-                    "available": true,
+                    "available": false,
                     "price": "10.00",
                     "grams": 0,
                     "compare_at_price": null,
                     "position": 1,
                     "product_id": 7853988937970,
                     "created_at": "2022-12-29T08:27:44-07:00",
-                    "updated_at": "2022-12-29T08:27:44-07:00"
+                    "updated_at": "2022-12-30T07:17:32-07:00"
                 }
             ],
             "images": [
