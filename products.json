@@ -1024,72 +1024,6 @@
             ]
         },
         {
-            "id": 7853991657714,
-            "title": "Grate One",
-            "handle": "grate-one",
-            "body_html": null,
-            "published_at": "2022-12-29T08:38:16-07:00",
-            "created_at": "2022-12-29T08:38:16-07:00",
-            "updated_at": "2022-12-29T13:30:56-07:00",
-            "vendor": "Yung Esau's Vintage Dead",
-            "product_type": "",
-            "tags": [],
-            "variants": [
-                {
-                    "id": 44211381567730,
-                    "title": "Default Title",
-                    "option1": "Default Title",
-                    "option2": null,
-                    "option3": null,
-                    "sku": null,
-                    "requires_shipping": true,
-                    "taxable": true,
-                    "featured_image": null,
-                    "available": false,
-                    "price": "25.00",
-                    "grams": 0,
-                    "compare_at_price": null,
-                    "position": 1,
-                    "product_id": 7853991657714,
-                    "created_at": "2022-12-29T08:38:16-07:00",
-                    "updated_at": "2022-12-29T13:27:47-07:00"
-                }
-            ],
-            "images": [
-                {
-                    "id": 39387970437362,
-                    "created_at": "2022-12-29T08:38:21-07:00",
-                    "position": 1,
-                    "updated_at": "2022-12-29T08:38:23-07:00",
-                    "product_id": 7853991657714,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_167ec9ab-d9d9-4c46-86ea-651e3202872d.heic?v=1672328303",
-                    "width": 3024,
-                    "height": 3024
-                },
-                {
-                    "id": 39387970928882,
-                    "created_at": "2022-12-29T08:38:25-07:00",
-                    "position": 2,
-                    "updated_at": "2022-12-29T08:38:27-07:00",
-                    "product_id": 7853991657714,
-                    "variant_ids": [],
-                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_70a7876d-f60f-4751-84cb-281e32f81b73.heic?v=1672328307",
-                    "width": 3024,
-                    "height": 3024
-                }
-            ],
-            "options": [
-                {
-                    "name": "Title",
-                    "position": 1,
-                    "values": [
-                        "Default Title"
-                    ]
-                }
-            ]
-        },
-        {
             "id": 7853991330034,
             "title": "Maddie Gras",
             "handle": "maddie-gras",
@@ -1988,6 +1922,72 @@
                     "product_id": 7853989134578,
                     "variant_ids": [],
                     "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_d203bb55-fa2d-4a7c-a59b-a69b95e33d71.heic?v=1672327783",
+                    "width": 3024,
+                    "height": 3024
+                }
+            ],
+            "options": [
+                {
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7853989036274,
+            "title": "Mane Man",
+            "handle": "mane-man",
+            "body_html": null,
+            "published_at": "2022-12-29T08:28:50-07:00",
+            "created_at": "2022-12-29T08:28:50-07:00",
+            "updated_at": "2022-12-29T10:50:47-07:00",
+            "vendor": "Yung Esau's Vintage Dead",
+            "product_type": "",
+            "tags": [],
+            "variants": [
+                {
+                    "id": 44211254821106,
+                    "title": "Default Title",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "sku": null,
+                    "requires_shipping": true,
+                    "taxable": true,
+                    "featured_image": null,
+                    "available": false,
+                    "price": "15.00",
+                    "grams": 0,
+                    "compare_at_price": null,
+                    "position": 1,
+                    "product_id": 7853989036274,
+                    "created_at": "2022-12-29T08:28:50-07:00",
+                    "updated_at": "2022-12-29T10:46:32-07:00"
+                }
+            ],
+            "images": [
+                {
+                    "id": 39387907588338,
+                    "created_at": "2022-12-29T08:28:55-07:00",
+                    "position": 1,
+                    "updated_at": "2022-12-29T08:28:57-07:00",
+                    "product_id": 7853989036274,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_95a0031b-c1bb-49ff-bc0d-7ccd85481b9c.heic?v=1672327737",
+                    "width": 3024,
+                    "height": 3024
+                },
+                {
+                    "id": 39387908079858,
+                    "created_at": "2022-12-29T08:28:59-07:00",
+                    "position": 2,
+                    "updated_at": "2022-12-29T08:29:02-07:00",
+                    "product_id": 7853989036274,
+                    "variant_ids": [],
+                    "src": "https://cdn.shopify.com/s/files/1/0550/2513/9902/products/image_61fe9af8-4d4a-4d7d-b0a3-ce41cab1578f.heic?v=1672327742",
                     "width": 3024,
                     "height": 3024
                 }
